@@ -1,0 +1,10 @@
+{
+  "connections": [
+    {
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/"
+      },
+      "name": "Local MongoDB"
+    }
+  ]
+}

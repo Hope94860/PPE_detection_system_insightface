@@ -1,0 +1,665 @@
+[2026-04-01 17:49:34] 🛠️ Recorder [7730] initialized. Output dir: D:\New folder (2)\Face_PPE_detection_system_insightface-main\incident_videos
+[2026-04-01 17:49:34] 📁 Working Directory: D:\New folder (2)\Face_PPE_detection_system_insightface-main
+[2026-04-01 17:49:34] ✅ Write access verified for D:\New folder (2)\Face_PPE_detection_system_insightface-main\incident_videos
+[2026-04-01 17:49:40] 🎬 Initializing recording for CAMV2 at 1280x720, 30.0fps
+[2026-04-01 17:49:40] ✅ [CAMV2] VideoWriter opened with codec mp4v
+[2026-04-01 17:49:40] 🔴 RECORDING STARTED: 2026-04-01_17-49-40_video2_Violation_PPE_Violation.mp4
+[2026-04-01 17:49:40] 📦 Writing 3 pre-incident frames to CAMV2
+[2026-04-01 17:57:30] 🛠️ Recorder [3580] initialized. Output dir: D:\New folder (2)\Face_PPE_detection_system_insightface-main\incident_videos
+[2026-04-01 17:57:30] 📁 Working Directory: D:\New folder (2)\Face_PPE_detection_system_insightface-main
+[2026-04-01 17:57:30] ✅ Write access verified for D:\New folder (2)\Face_PPE_detection_system_insightface-main\incident_videos
+[2026-04-01 17:57:34] 🎬 Initializing recording for CAMV2 at 1280x720, 30.0fps
+[2026-04-01 17:57:34] ✅ [CAMV2] VideoWriter opened with codec mp4v
+[2026-04-01 17:57:34] 🔴 RECORDING STARTED: 2026-04-01_17-57-34_video2_Violation_PPE_Violation.mp4
+[2026-04-01 17:57:34] 📦 Writing 5 pre-incident frames to CAMV2
+[2026-04-04 00:19:44] 🛠️ Recorder [3092] initialized. Output dir: D:\New folder (2)\Face_PPE_detection_system_insightface-main\incident_videos
+[2026-04-04 00:19:44] 📁 Working Directory: D:\New folder (2)\Face_PPE_detection_system_insightface-main
+[2026-04-04 00:19:44] ✅ Write access verified for D:\New folder (2)\Face_PPE_detection_system_insightface-main\incident_videos
+[2026-04-04 00:19:49] 🎬 Initializing recording for CAMV2 at 1280x720, 30.0fps
+[2026-04-04 00:19:49] ✅ [CAMV2] VideoWriter opened with codec mp4v
+[2026-04-04 00:19:49] 🔴 RECORDING STARTED: 2026-04-04_00-19-49_video2_Violation_PPE_Violation.mp4
+[2026-04-04 00:19:49] 📦 Writing 3 pre-incident frames to CAMV2
+[2026-04-04 00:21:44] ⏰ Finalizing recording for CAMV2 (Duration limit or stream stall)
+[2026-04-04 00:21:44] ⏹️ RECORDING FINALIZED: 2026-04-04_00-19-49_video2_Violation_PPE_Violation.mp4 (8723.0 KB, duration approx 114.9s)
+[2026-04-04 00:21:47] 🎬 Initializing recording for CAMV2 at 1280x720, 30.0fps
+[2026-04-04 00:21:47] ✅ [CAMV2] VideoWriter opened with codec mp4v
+[2026-04-04 00:21:47] 🔴 RECORDING STARTED: 2026-04-04_00-21-47_video2_Violation_PPE_Violation.mp4
+[2026-04-04 00:21:47] 📦 Writing 150 pre-incident frames to CAMV2
+[2026-04-04 00:24:04] ⏰ Finalizing recording for CAMV2 (Duration limit or stream stall)
+[2026-04-04 00:24:05] ⏹️ RECORDING FINALIZED: 2026-04-04_00-21-47_video2_Violation_PPE_Violation.mp4 (16445.1 KB, duration approx 137.2s)
+[2026-04-04 00:24:24] 🛠️ Recorder [1591] initialized. Output dir: D:\New folder (2)\Face_PPE_detection_system_insightface-main\incident_videos
+[2026-04-04 00:24:24] 📁 Working Directory: D:\New folder (2)\Face_PPE_detection_system_insightface-main
+[2026-04-04 00:24:24] ✅ Write access verified for D:\New folder (2)\Face_PPE_detection_system_insightface-main\incident_videos
+[2026-04-04 00:24:34] 🎬 Initializing recording for CAMV2 at 1280x720, 30.0fps
+[2026-04-04 00:24:34] ✅ [CAMV2] VideoWriter opened with codec mp4v
+[2026-04-04 00:24:34] 🔴 RECORDING STARTED: 2026-04-04_00-24-34_video2_Violation_PPE_Violation.mp4
+[2026-04-04 00:24:34] 📦 Writing 8 pre-incident frames to CAMV2
+[2026-04-04 00:26:56] ⏰ Finalizing recording for CAMV2 (Duration limit or stream stall)
+[2026-04-04 00:26:56] ⏹️ RECORDING FINALIZED: 2026-04-04_00-24-34_video2_Violation_PPE_Violation.mp4 (7381.7 KB, duration approx 141.6s)
+[2026-04-04 00:27:04] 🎬 Initializing recording for CAMV2 at 1280x720, 30.0fps
+[2026-04-04 00:27:04] ✅ [CAMV2] VideoWriter opened with codec mp4v
+[2026-04-04 00:27:04] 🔴 RECORDING STARTED: 2026-04-04_00-27-04_video2_Violation_PPE_Violation.mp4
+[2026-04-04 00:27:04] 📦 Writing 148 pre-incident frames to CAMV2
+[2026-04-04 00:28:23] ⏰ Finalizing recording for CAMV2 (Duration limit or stream stall)
+[2026-04-04 00:28:24] ⏹️ RECORDING FINALIZED: 2026-04-04_00-27-04_video2_Violation_PPE_Violation.mp4 (12169.6 KB, duration approx 79.7s)
+[2026-04-04 00:28:46] 🎬 Initializing recording for CAMV2 at 1280x720, 30.0fps
+[2026-04-04 00:28:46] ✅ [CAMV2] VideoWriter opened with codec mp4v
+[2026-04-04 00:28:46] 🔴 RECORDING STARTED: 2026-04-04_00-28-46_video2_Violation_PPE_Violation.mp4
+[2026-04-04 00:28:47] 📦 Writing 150 pre-incident frames to CAMV2
+[2026-04-04 00:31:45] ⏰ Finalizing recording for CAMV2 (Duration limit or stream stall)
+[2026-04-04 00:31:45] ⏹️ RECORDING FINALIZED: 2026-04-04_00-28-46_video2_Violation_PPE_Violation.mp4 (17112.2 KB, duration approx 178.5s)
+[2026-04-04 00:32:15] 🎬 Initializing recording for CAMV2 at 1280x720, 30.0fps
+[2026-04-04 00:32:15] ✅ [CAMV2] VideoWriter opened with codec mp4v
+[2026-04-04 00:32:15] 🔴 RECORDING STARTED: 2026-04-04_00-32-15_video2_Violation_PPE_Violation.mp4
+[2026-04-04 00:32:15] 📦 Writing 150 pre-incident frames to CAMV2
+[2026-04-04 00:35:15] ⏰ Finalizing recording for CAMV2 (Duration limit or stream stall)
+[2026-04-04 00:35:16] ⏹️ RECORDING FINALIZED: 2026-04-04_00-32-15_video2_Violation_PPE_Violation.mp4 (17335.7 KB, duration approx 180.1s)
+[2026-04-04 00:35:16] 🎬 Initializing recording for CAMV2 at 1280x720, 30.0fps
+[2026-04-04 00:35:16] ✅ [CAMV2] VideoWriter opened with codec mp4v
+[2026-04-04 00:35:16] 🔴 RECORDING STARTED: 2026-04-04_00-35-16_video2_Violation_PPE_Violation.mp4
+[2026-04-04 00:35:16] 📦 Writing 150 pre-incident frames to CAMV2
+[2026-04-04 00:38:17] ⏰ Finalizing recording for CAMV2 (Duration limit or stream stall)
+[2026-04-04 00:38:17] ⏹️ RECORDING FINALIZED: 2026-04-04_00-35-16_video2_Violation_PPE_Violation.mp4 (17512.9 KB, duration approx 180.7s)
+[2026-04-04 00:38:22] 🎬 Initializing recording for CAMV2 at 1280x720, 30.0fps
+[2026-04-04 00:38:22] ✅ [CAMV2] VideoWriter opened with codec mp4v
+[2026-04-04 00:38:22] 🔴 RECORDING STARTED: 2026-04-04_00-38-22_video2_Violation_PPE_Violation.mp4
+[2026-04-04 00:38:22] 📦 Writing 150 pre-incident frames to CAMV2
+[2026-04-04 01:25:04] 🛠️ Recorder [9634] initialized. Output dir: D:\New folder (2)\Face_PPE_detection_system_insightface-main\incident_videos
+[2026-04-04 01:25:04] 📁 Working Directory: D:\New folder (2)\Face_PPE_detection_system_insightface-main
+[2026-04-04 01:25:04] ✅ Write access verified for D:\New folder (2)\Face_PPE_detection_system_insightface-main\incident_videos
+[2026-04-04 01:25:08] 🎬 Initializing recording for CAMV2 at 1280x720, 30.0fps
+[2026-04-04 01:25:08] ✅ [CAMV2] VideoWriter opened with codec mp4v
+[2026-04-04 01:25:08] 🔴 RECORDING STARTED: 2026-04-04_01-25-08_video2_Violation_PPE_Violation.mp4
+[2026-04-04 01:25:08] 📦 Writing 5 pre-incident frames to CAMV2
+[2026-04-04 01:27:03] ⏰ Finalizing recording for CAMV2 (Duration limit or stream stall)
+[2026-04-04 01:27:04] ⏹️ RECORDING FINALIZED: 2026-04-04_01-25-08_video2_Violation_PPE_Violation.mp4 (9382.6 KB, duration approx 115.0s)
+[2026-04-04 01:27:27] 🎬 Initializing recording for CAMV2 at 1280x720, 30.0fps
+[2026-04-04 01:27:27] ✅ [CAMV2] VideoWriter opened with codec mp4v
+[2026-04-04 01:27:27] 🔴 RECORDING STARTED: 2026-04-04_01-27-27_video2_Violation_PPE_Violation.mp4
+[2026-04-04 01:27:27] 📦 Writing 150 pre-incident frames to CAMV2
+[2026-04-04 01:30:28] ⏰ Finalizing recording for CAMV2 (Duration limit or stream stall)
+[2026-04-04 01:30:28] ⏹️ RECORDING FINALIZED: 2026-04-04_01-27-27_video2_Violation_PPE_Violation.mp4 (17203.9 KB, duration approx 180.9s)
+[2026-04-04 01:30:31] 🎬 Initializing recording for CAMV2 at 1280x720, 30.0fps
+[2026-04-04 01:30:31] ✅ [CAMV2] VideoWriter opened with codec mp4v
+[2026-04-04 01:30:31] 🔴 RECORDING STARTED: 2026-04-04_01-30-31_video2_Violation_PPE_Violation.mp4
+[2026-04-04 01:30:31] 📦 Writing 150 pre-incident frames to CAMV2
+[2026-04-04 01:33:31] ⏰ Finalizing recording for CAMV2 (Duration limit or stream stall)
+[2026-04-04 01:33:32] ⏹️ RECORDING FINALIZED: 2026-04-04_01-30-31_video2_Violation_PPE_Violation.mp4 (17598.7 KB, duration approx 180.3s)
+[2026-04-04 01:33:43] 🎬 Initializing recording for CAMV2 at 1280x720, 30.0fps
+[2026-04-04 01:33:43] ✅ [CAMV2] VideoWriter opened with codec mp4v
+[2026-04-04 01:33:43] 🔴 RECORDING STARTED: 2026-04-04_01-33-43_video2_Violation_PPE_Violation.mp4
+[2026-04-04 01:33:43] 📦 Writing 150 pre-incident frames to CAMV2
+[2026-04-04 01:36:44] ⏰ Finalizing recording for CAMV2 (Duration limit or stream stall)
+[2026-04-04 01:36:44] 🎬 Initializing recording for CAMV2 at 1280x720, 30.0fps
+[2026-04-04 01:36:44] ✅ [CAMV2] VideoWriter opened with codec mp4v
+[2026-04-04 01:36:44] 🔴 RECORDING STARTED: 2026-04-04_01-36-44_video2_Violation_PPE_Violation.mp4
+[2026-04-04 01:36:44] 📦 Writing 150 pre-incident frames to CAMV2
+[2026-04-04 01:36:44] ⏹️ RECORDING FINALIZED: 2026-04-04_01-33-43_video2_Violation_PPE_Violation.mp4 (17426.4 KB, duration approx 180.8s)
+[2026-04-04 01:37:47] ⏰ Finalizing recording for CAMV2 (Duration limit or stream stall)
+[2026-04-04 01:37:47] ⏹️ RECORDING FINALIZED: 2026-04-04_01-36-44_video2_Violation_PPE_Violation.mp4 (10898.0 KB, duration approx 62.6s)
+[2026-04-04 01:38:17] 🎬 Initializing recording for CAMV2 at 1280x720, 30.0fps
+[2026-04-04 01:38:17] ✅ [CAMV2] VideoWriter opened with codec mp4v
+[2026-04-04 01:38:17] 🔴 RECORDING STARTED: 2026-04-04_01-38-17_video2_Violation_PPE_Violation.mp4
+[2026-04-04 01:38:17] 📦 Writing 150 pre-incident frames to CAMV2
+[2026-04-04 01:41:18] ⏰ Finalizing recording for CAMV2 (Duration limit or stream stall)
+[2026-04-04 01:41:19] ⏹️ RECORDING FINALIZED: 2026-04-04_01-38-17_video2_Violation_PPE_Violation.mp4 (17235.0 KB, duration approx 180.8s)
+[2026-04-04 01:41:19] 🎬 Initializing recording for CAMV2 at 1280x720, 30.0fps
+[2026-04-04 01:41:19] ✅ [CAMV2] VideoWriter opened with codec mp4v
+[2026-04-04 01:41:19] 🔴 RECORDING STARTED: 2026-04-04_01-41-19_video2_Violation_PPE_Violation.mp4
+[2026-04-04 01:41:19] 📦 Writing 150 pre-incident frames to CAMV2
+[2026-04-04 01:44:19] ⏰ Finalizing recording for CAMV2 (Duration limit or stream stall)
+[2026-04-04 01:44:20] ⏹️ RECORDING FINALIZED: 2026-04-04_01-41-19_video2_Violation_PPE_Violation.mp4 (17902.1 KB, duration approx 180.4s)
+[2026-04-04 01:44:20] 🎬 Initializing recording for CAMV2 at 1280x720, 30.0fps
+[2026-04-04 01:44:20] ✅ [CAMV2] VideoWriter opened with codec mp4v
+[2026-04-04 01:44:20] 🔴 RECORDING STARTED: 2026-04-04_01-44-20_video2_Violation_PPE_Violation.mp4
+[2026-04-04 01:44:20] 📦 Writing 150 pre-incident frames to CAMV2
+[2026-04-04 01:47:21] ⏰ Finalizing recording for CAMV2 (Duration limit or stream stall)
+[2026-04-04 01:47:21] ⏹️ RECORDING FINALIZED: 2026-04-04_01-44-20_video2_Violation_PPE_Violation.mp4 (17454.2 KB, duration approx 180.4s)
+[2026-04-04 01:47:22] 🎬 Initializing recording for CAMV2 at 1280x720, 30.0fps
+[2026-04-04 01:47:22] ✅ [CAMV2] VideoWriter opened with codec mp4v
+[2026-04-04 01:47:22] 🔴 RECORDING STARTED: 2026-04-04_01-47-22_video2_Violation_PPE_Violation.mp4
+[2026-04-04 01:47:22] 📦 Writing 150 pre-incident frames to CAMV2
+[2026-04-04 01:47:39] 🎬 Initializing recording for CAM_VIDEO_001 at 1920x1080, 30.0fps
+[2026-04-04 01:47:39] ✅ [CAM_VIDEO_001] VideoWriter opened with codec mp4v
+[2026-04-04 01:47:39] 🔴 RECORDING STARTED: 2026-04-04_01-47-39_Demo-Video-Camera_Violation_PPE_Violation.mp4
+[2026-04-04 01:47:39] 📦 Writing 2 pre-incident frames to CAM_VIDEO_001
+[2026-04-04 01:47:56] 🎬 Initializing recording for CAMV4 at 960x720, 30.0fps
+[2026-04-04 01:47:56] ✅ [CAMV4] VideoWriter opened with codec mp4v
+[2026-04-04 01:47:56] 🔴 RECORDING STARTED: 2026-04-04_01-47-56_video4_Violation_PPE_Violation.mp4
+[2026-04-04 01:47:56] 📦 Writing 10 pre-incident frames to CAMV4
+[2026-04-04 01:48:14] 🛠️ Recorder [6358] initialized. Output dir: D:\New folder (2)\Face_PPE_detection_system_insightface-main\incident_videos
+[2026-04-04 01:48:14] 📁 Working Directory: D:\New folder (2)\Face_PPE_detection_system_insightface-main
+[2026-04-04 01:48:14] ✅ Write access verified for D:\New folder (2)\Face_PPE_detection_system_insightface-main\incident_videos
+[2026-04-04 01:48:20] 🎬 Initializing recording for CAM_VIDEO_001 at 1920x1080, 30.0fps
+[2026-04-04 01:48:20] ✅ [CAM_VIDEO_001] VideoWriter opened with codec mp4v
+[2026-04-04 01:48:20] 🔴 RECORDING STARTED: 2026-04-04_01-48-20_Demo-Video-Camera_Violation_PPE_Violation.mp4
+[2026-04-04 01:48:20] 📦 Writing 3 pre-incident frames to CAM_VIDEO_001
+[2026-04-04 01:48:20] 🎬 Initializing recording for CAMV2 at 1280x720, 30.0fps
+[2026-04-04 01:48:20] ✅ [CAMV2] VideoWriter opened with codec mp4v
+[2026-04-04 01:48:20] 🔴 RECORDING STARTED: 2026-04-04_01-48-20_video2_Violation_PPE_Violation.mp4
+[2026-04-04 01:48:20] 📦 Writing 2 pre-incident frames to CAMV2
+[2026-04-04 01:48:36] 🎬 Initializing recording for CAMV4 at 960x720, 30.0fps
+[2026-04-04 01:48:36] ✅ [CAMV4] VideoWriter opened with codec mp4v
+[2026-04-04 01:48:36] 🔴 RECORDING STARTED: 2026-04-04_01-48-36_video4_Violation_PPE_Violation.mp4
+[2026-04-04 01:48:36] 📦 Writing 9 pre-incident frames to CAMV4
+[2026-04-04 02:16:40] 🛠️ Recorder [9833] initialized. Output dir: D:\New folder (2)\Face_PPE_detection_system_insightface-main\incident_videos
+[2026-04-04 02:16:40] 📁 Working Directory: D:\New folder (2)\Face_PPE_detection_system_insightface-main
+[2026-04-04 02:16:40] ✅ Write access verified for D:\New folder (2)\Face_PPE_detection_system_insightface-main\incident_videos
+[2026-04-04 02:16:48] 🎬 Initializing recording for CAM_VIDEO_001 at 1920x1080, 30.0fps
+[2026-04-04 02:16:48] ✅ [CAM_VIDEO_001] VideoWriter opened with codec mp4v
+[2026-04-04 02:16:48] 🔴 RECORDING STARTED: 2026-04-04_02-16-48_Demo-Video-Camera_Violation_PPE_Violation.mp4
+[2026-04-04 02:16:48] 📦 Writing 3 pre-incident frames to CAM_VIDEO_001
+[2026-04-04 02:16:48] 🎬 Initializing recording for CAMV2 at 1280x720, 30.0fps
+[2026-04-04 02:16:48] ✅ [CAMV2] VideoWriter opened with codec mp4v
+[2026-04-04 02:16:48] 🔴 RECORDING STARTED: 2026-04-04_02-16-48_video2_Violation_PPE_Violation.mp4
+[2026-04-04 02:16:48] 📦 Writing 2 pre-incident frames to CAMV2
+[2026-04-04 02:17:03] 🎬 Initializing recording for CAMV4 at 960x720, 30.0fps
+[2026-04-04 02:17:03] ✅ [CAMV4] VideoWriter opened with codec mp4v
+[2026-04-04 02:17:03] 🔴 RECORDING STARTED: 2026-04-04_02-17-03_video4_Violation_PPE_Violation.mp4
+[2026-04-04 02:17:03] 📦 Writing 9 pre-incident frames to CAMV4
+[2026-04-04 02:19:23] ⏰ Finalizing recording for CAMV2 (Duration limit or stream stall)
+[2026-04-04 02:19:24] ⏹️ RECORDING FINALIZED: 2026-04-04_02-16-48_video2_Violation_PPE_Violation.mp4 (5108.3 KB, duration approx 155.2s)
+[2026-04-04 02:19:26] 🎬 Initializing recording for CAMV2 at 1280x720, 30.0fps
+[2026-04-04 02:19:26] ✅ [CAMV2] VideoWriter opened with codec mp4v
+[2026-04-04 02:19:26] 🔴 RECORDING STARTED: 2026-04-04_02-19-26_video2_Violation_PPE_Violation.mp4
+[2026-04-04 02:19:26] 📦 Writing 76 pre-incident frames to CAMV2
+[2026-04-04 02:19:48] ⏰ Finalizing recording for CAM_VIDEO_001 (Duration limit or stream stall)
+[2026-04-04 02:19:48] ⏹️ RECORDING FINALIZED: 2026-04-04_02-16-48_Demo-Video-Camera_Violation_PPE_Violation.mp4 (9476.9 KB, duration approx 180.1s)
+[2026-04-04 02:20:04] ⏰ Finalizing recording for CAMV4 (Duration limit or stream stall)
+[2026-04-04 02:20:04] ⏹️ RECORDING FINALIZED: 2026-04-04_02-17-03_video4_Violation_PPE_Violation.mp4 (7391.1 KB, duration approx 180.8s)
+[2026-04-04 02:20:08] 🎬 Initializing recording for CAMV4 at 960x720, 30.0fps
+[2026-04-04 02:20:08] ✅ [CAMV4] VideoWriter opened with codec mp4v
+[2026-04-04 02:20:08] 🔴 RECORDING STARTED: 2026-04-04_02-20-08_video4_Violation_PPE_Violation.mp4
+[2026-04-04 02:20:08] 📦 Writing 96 pre-incident frames to CAMV4
+[2026-04-04 02:20:14] 🎬 Initializing recording for CAM_VIDEO_001 at 1920x1080, 30.0fps
+[2026-04-04 02:20:14] ✅ [CAM_VIDEO_001] VideoWriter opened with codec mp4v
+[2026-04-04 02:20:14] 🔴 RECORDING STARTED: 2026-04-04_02-20-14_Demo-Video-Camera_Violation_PPE_Violation.mp4
+[2026-04-04 02:20:14] 📦 Writing 100 pre-incident frames to CAM_VIDEO_001
+[2026-04-04 02:20:36] ⏰ Finalizing recording for CAMV2 (Duration limit or stream stall)
+[2026-04-04 02:20:37] ⏹️ RECORDING FINALIZED: 2026-04-04_02-19-26_video2_Violation_PPE_Violation.mp4 (7202.4 KB, duration approx 70.9s)
+[2026-04-04 02:21:05] 🎬 Initializing recording for CAMV2 at 1280x720, 30.0fps
+[2026-04-04 02:21:05] ✅ [CAMV2] VideoWriter opened with codec mp4v
+[2026-04-04 02:21:05] 🔴 RECORDING STARTED: 2026-04-04_02-21-05_video2_Violation_PPE_Violation.mp4
+[2026-04-04 02:21:05] 📦 Writing 122 pre-incident frames to CAMV2
+[2026-04-04 02:23:08] ⏰ Finalizing recording for CAMV4 (Duration limit or stream stall)
+[2026-04-04 02:23:09] ⏹️ RECORDING FINALIZED: 2026-04-04_02-20-08_video4_Violation_PPE_Violation.mp4 (13238.1 KB, duration approx 180.8s)
+[2026-04-04 02:23:15] 🎬 Initializing recording for CAMV4 at 960x720, 30.0fps
+[2026-04-04 02:23:15] ✅ [CAMV4] VideoWriter opened with codec mp4v
+[2026-04-04 02:23:15] 🔴 RECORDING STARTED: 2026-04-04_02-23-15_video4_Violation_PPE_Violation.mp4
+[2026-04-04 02:23:15] 📦 Writing 150 pre-incident frames to CAMV4
+[2026-04-04 02:23:15] ⏰ Finalizing recording for CAM_VIDEO_001 (Duration limit or stream stall)
+[2026-04-04 02:23:16] ⏹️ RECORDING FINALIZED: 2026-04-04_02-20-14_Demo-Video-Camera_Violation_PPE_Violation.mp4 (18588.3 KB, duration approx 180.7s)
+[2026-04-04 02:23:18] 🎬 Initializing recording for CAM_VIDEO_001 at 1920x1080, 30.0fps
+[2026-04-04 02:23:18] ✅ [CAM_VIDEO_001] VideoWriter opened with codec mp4v
+[2026-04-04 02:23:18] 🔴 RECORDING STARTED: 2026-04-04_02-23-18_Demo-Video-Camera_Violation_PPE_Violation.mp4
+[2026-04-04 02:23:18] 📦 Writing 150 pre-incident frames to CAM_VIDEO_001
+[2026-04-04 02:23:57] ⏰ Finalizing recording for CAMV2 (Duration limit or stream stall)
+[2026-04-04 02:23:58] ⏹️ RECORDING FINALIZED: 2026-04-04_02-21-05_video2_Violation_PPE_Violation.mp4 (12335.7 KB, duration approx 172.3s)
+[2026-04-04 02:24:46] 🎬 Initializing recording for CAMV2 at 1280x720, 30.0fps
+[2026-04-04 02:24:46] ✅ [CAMV2] VideoWriter opened with codec mp4v
+[2026-04-04 02:24:46] 🔴 RECORDING STARTED: 2026-04-04_02-24-46_video2_Violation_PPE_Violation.mp4
+[2026-04-04 02:24:46] 📦 Writing 150 pre-incident frames to CAMV2
+[2026-04-04 02:26:16] ⏰ Finalizing recording for CAMV4 (Duration limit or stream stall)
+[2026-04-04 02:26:16] 🎬 Initializing recording for CAMV4 at 960x720, 30.0fps
+[2026-04-04 02:26:16] ✅ [CAMV4] VideoWriter opened with codec mp4v
+[2026-04-04 02:26:16] 🔴 RECORDING STARTED: 2026-04-04_02-26-16_video4_Violation_PPE_Violation.mp4
+[2026-04-04 02:26:16] 📦 Writing 150 pre-incident frames to CAMV4
+[2026-04-04 02:26:17] ⏹️ RECORDING FINALIZED: 2026-04-04_02-23-15_video4_Violation_PPE_Violation.mp4 (17025.5 KB, duration approx 181.0s)
+[2026-04-04 02:26:18] ⏰ Finalizing recording for CAMV2 (Duration limit or stream stall)
+[2026-04-04 02:26:18] ⏹️ RECORDING FINALIZED: 2026-04-04_02-24-46_video2_Violation_PPE_Violation.mp4 (12495.1 KB, duration approx 91.9s)
+[2026-04-04 02:26:19] ⏰ Finalizing recording for CAM_VIDEO_001 (Duration limit or stream stall)
+[2026-04-04 02:26:19] 🎬 Initializing recording for CAM_VIDEO_001 at 1920x1080, 30.0fps
+[2026-04-04 02:26:19] ✅ [CAM_VIDEO_001] VideoWriter opened with codec mp4v
+[2026-04-04 02:26:19] 🔴 RECORDING STARTED: 2026-04-04_02-26-19_Demo-Video-Camera_Violation_PPE_Violation.mp4
+[2026-04-04 02:26:19] 📦 Writing 150 pre-incident frames to CAM_VIDEO_001
+[2026-04-04 02:26:20] ⏹️ RECORDING FINALIZED: 2026-04-04_02-23-18_Demo-Video-Camera_Violation_PPE_Violation.mp4 (22278.2 KB, duration approx 180.9s)
+[2026-04-04 02:26:25] 🎬 Initializing recording for CAMV2 at 1280x720, 30.0fps
+[2026-04-04 02:26:25] ✅ [CAMV2] VideoWriter opened with codec mp4v
+[2026-04-04 02:26:25] 🔴 RECORDING STARTED: 2026-04-04_02-26-25_video2_Violation_PPE_Violation.mp4
+[2026-04-04 02:26:25] 📦 Writing 150 pre-incident frames to CAMV2
+[2026-04-04 12:45:36] 🛠️ Recorder [7838] initialized. Output dir: D:\New folder (2)\Face_PPE_detection_system_insightface-main\incident_videos
+[2026-04-04 12:45:36] 📁 Working Directory: D:\New folder (2)\Face_PPE_detection_system_insightface-main
+[2026-04-04 12:45:36] ✅ Write access verified for D:\New folder (2)\Face_PPE_detection_system_insightface-main\incident_videos
+[2026-04-04 12:45:45] 🎬 Initializing recording for CAM_VIDEO_001 at 1920x1080, 30.0fps
+[2026-04-04 12:45:45] ✅ [CAM_VIDEO_001] VideoWriter opened with codec mp4v
+[2026-04-04 12:45:45] 🔴 RECORDING STARTED: 2026-04-04_12-45-45_Demo-Video-Camera_Violation_PPE_Violation.mp4
+[2026-04-04 12:45:45] 📦 Writing 3 pre-incident frames to CAM_VIDEO_001
+[2026-04-04 12:45:45] 🎬 Initializing recording for CAMV2 at 1280x720, 30.0fps
+[2026-04-04 12:45:45] ✅ [CAMV2] VideoWriter opened with codec mp4v
+[2026-04-04 12:45:45] 🔴 RECORDING STARTED: 2026-04-04_12-45-45_video2_Violation_PPE_Violation.mp4
+[2026-04-04 12:45:45] 📦 Writing 2 pre-incident frames to CAMV2
+[2026-04-04 12:45:59] 🎬 Initializing recording for CAMV4 at 960x720, 30.0fps
+[2026-04-04 12:45:59] ✅ [CAMV4] VideoWriter opened with codec mp4v
+[2026-04-04 12:45:59] 🔴 RECORDING STARTED: 2026-04-04_12-45-59_video4_Violation_PPE_Violation.mp4
+[2026-04-04 12:45:59] 📦 Writing 6 pre-incident frames to CAMV4
+[2026-04-04 12:47:29] ⏰ Finalizing recording for CAMV2 (Duration limit or stream stall)
+[2026-04-04 12:47:30] ⏹️ RECORDING FINALIZED: 2026-04-04_12-45-45_video2_Violation_PPE_Violation.mp4 (2511.5 KB, duration approx 104.6s)
+[2026-04-04 12:48:10] 🎬 Initializing recording for CAMV2 at 1280x720, 30.0fps
+[2026-04-04 12:48:10] ✅ [CAMV2] VideoWriter opened with codec mp4v
+[2026-04-04 12:48:10] 🔴 RECORDING STARTED: 2026-04-04_12-48-10_video2_Violation_PPE_Violation.mp4
+[2026-04-04 12:48:10] 📦 Writing 46 pre-incident frames to CAMV2
+[2026-04-04 12:48:46] ⏰ Finalizing recording for CAM_VIDEO_001 (Duration limit or stream stall)
+[2026-04-04 12:48:46] ⏹️ RECORDING FINALIZED: 2026-04-04_12-45-45_Demo-Video-Camera_Violation_PPE_Violation.mp4 (6542.6 KB, duration approx 181.0s)
+[2026-04-04 12:48:59] ⏰ Finalizing recording for CAMV4 (Duration limit or stream stall)
+[2026-04-04 12:49:00] ⏹️ RECORDING FINALIZED: 2026-04-04_12-45-59_video4_Violation_PPE_Violation.mp4 (5294.6 KB, duration approx 180.1s)
+[2026-04-04 12:49:03] 🎬 Initializing recording for CAMV4 at 960x720, 30.0fps
+[2026-04-04 12:49:03] ✅ [CAMV4] VideoWriter opened with codec mp4v
+[2026-04-04 12:49:03] 🔴 RECORDING STARTED: 2026-04-04_12-49-03_video4_Violation_PPE_Violation.mp4
+[2026-04-04 12:49:03] 📦 Writing 64 pre-incident frames to CAMV4
+[2026-04-04 12:49:14] 🎬 Initializing recording for CAM_VIDEO_001 at 1920x1080, 30.0fps
+[2026-04-04 12:49:14] ✅ [CAM_VIDEO_001] VideoWriter opened with codec mp4v
+[2026-04-04 12:49:14] 🔴 RECORDING STARTED: 2026-04-04_12-49-13_Demo-Video-Camera_Violation_PPE_Violation.mp4
+[2026-04-04 12:49:14] 📦 Writing 68 pre-incident frames to CAM_VIDEO_001
+[2026-04-04 12:49:36] ⏰ Finalizing recording for CAMV2 (Duration limit or stream stall)
+[2026-04-04 12:49:37] ⏹️ RECORDING FINALIZED: 2026-04-04_12-48-10_video2_Violation_PPE_Violation.mp4 (5557.0 KB, duration approx 85.8s)
+[2026-04-04 12:49:56] 🎬 Initializing recording for CAMV2 at 1280x720, 30.0fps
+[2026-04-04 12:49:56] ✅ [CAMV2] VideoWriter opened with codec mp4v
+[2026-04-04 12:49:56] 🔴 RECORDING STARTED: 2026-04-04_12-49-56_video2_Violation_PPE_Violation.mp4
+[2026-04-04 12:49:56] 📦 Writing 81 pre-incident frames to CAMV2
+[2026-04-04 12:51:49] 🎬 Initializing recording for CAM011 at 1280x720, 30.0fps
+[2026-04-04 12:51:49] ✅ [CAM011] VideoWriter opened with codec mp4v
+[2026-04-04 12:51:49] 🔴 RECORDING STARTED: 2026-04-04_12-51-49_OCR_Violation_PPE_Violation.mp4
+[2026-04-04 12:51:49] 📦 Writing 1 pre-incident frames to CAM011
+[2026-04-04 12:52:04] ⏰ Finalizing recording for CAMV4 (Duration limit or stream stall)
+[2026-04-04 12:52:04] ⏹️ RECORDING FINALIZED: 2026-04-04_12-49-03_video4_Violation_PPE_Violation.mp4 (10181.8 KB, duration approx 180.8s)
+[2026-04-04 12:52:14] ⏰ Finalizing recording for CAM_VIDEO_001 (Duration limit or stream stall)
+[2026-04-04 12:52:15] ⏹️ RECORDING FINALIZED: 2026-04-04_12-49-13_Demo-Video-Camera_Violation_PPE_Violation.mp4 (14103.9 KB, duration approx 180.8s)
+[2026-04-04 12:52:19] 🎬 Initializing recording for CAM_VIDEO_001 at 1920x1080, 30.0fps
+[2026-04-04 12:52:19] ✅ [CAM_VIDEO_001] VideoWriter opened with codec mp4v
+[2026-04-04 12:52:19] 🔴 RECORDING STARTED: 2026-04-04_12-52-19_Demo-Video-Camera_Violation_PPE_Violation.mp4
+[2026-04-04 12:52:19] 📦 Writing 125 pre-incident frames to CAM_VIDEO_001
+[2026-04-04 12:52:22] 🎬 Initializing recording for CAMV4 at 960x720, 30.0fps
+[2026-04-04 12:52:22] ✅ [CAMV4] VideoWriter opened with codec mp4v
+[2026-04-04 12:52:22] 🔴 RECORDING STARTED: 2026-04-04_12-52-22_video4_Violation_PPE_Violation.mp4
+[2026-04-04 12:52:22] 📦 Writing 124 pre-incident frames to CAMV4
+[2026-04-04 12:52:57] ⏰ Finalizing recording for CAMV2 (Duration limit or stream stall)
+[2026-04-04 12:52:58] ⏹️ RECORDING FINALIZED: 2026-04-04_12-49-56_video2_Violation_PPE_Violation.mp4 (10117.6 KB, duration approx 180.8s)
+[2026-04-04 12:53:01] 🎬 Initializing recording for CAMV2 at 1280x720, 30.0fps
+[2026-04-04 12:53:01] ✅ [CAMV2] VideoWriter opened with codec mp4v
+[2026-04-04 12:53:01] 🔴 RECORDING STARTED: 2026-04-04_12-53-01_video2_Violation_PPE_Violation.mp4
+[2026-04-04 12:53:01] 📦 Writing 135 pre-incident frames to CAMV2
+[2026-04-04 12:53:38] ⏰ Finalizing recording for CAM011 (Duration limit or stream stall)
+[2026-04-04 12:53:38] ⏹️ RECORDING FINALIZED: 2026-04-04_12-51-49_OCR_Violation_PPE_Violation.mp4 (3107.7 KB, duration approx 109.3s)
+[2026-04-04 12:54:57] ⏰ Finalizing recording for CAMV2 (Duration limit or stream stall)
+[2026-04-04 12:54:58] ⏹️ RECORDING FINALIZED: 2026-04-04_12-53-01_video2_Violation_PPE_Violation.mp4 (12663.0 KB, duration approx 115.6s)
+[2026-04-04 12:55:19] 🎬 Initializing recording for CAMV2 at 1280x720, 30.0fps
+[2026-04-04 12:55:19] ✅ [CAMV2] VideoWriter opened with codec mp4v
+[2026-04-04 12:55:19] 🔴 RECORDING STARTED: 2026-04-04_12-55-19_video2_Violation_PPE_Violation.mp4
+[2026-04-04 12:55:19] 📦 Writing 150 pre-incident frames to CAMV2
+[2026-04-04 12:55:20] ⏰ Finalizing recording for CAM_VIDEO_001 (Duration limit or stream stall)
+[2026-04-04 12:55:20] ⏹️ RECORDING FINALIZED: 2026-04-04_12-52-19_Demo-Video-Camera_Violation_PPE_Violation.mp4 (20002.5 KB, duration approx 180.8s)
+[2026-04-04 12:55:22] 🎬 Initializing recording for CAM_VIDEO_001 at 1920x1080, 30.0fps
+[2026-04-04 12:55:22] ✅ [CAM_VIDEO_001] VideoWriter opened with codec mp4v
+[2026-04-04 12:55:22] 🔴 RECORDING STARTED: 2026-04-04_12-55-22_Demo-Video-Camera_Violation_PPE_Violation.mp4
+[2026-04-04 12:55:22] 📦 Writing 150 pre-incident frames to CAM_VIDEO_001
+[2026-04-04 12:55:23] ⏰ Finalizing recording for CAMV4 (Duration limit or stream stall)
+[2026-04-04 12:55:24] ⏹️ RECORDING FINALIZED: 2026-04-04_12-52-22_video4_Violation_PPE_Violation.mp4 (14877.9 KB, duration approx 180.8s)
+[2026-04-04 12:55:25] 🎬 Initializing recording for CAMV4 at 960x720, 30.0fps
+[2026-04-04 12:55:25] ✅ [CAMV4] VideoWriter opened with codec mp4v
+[2026-04-04 12:55:25] 🔴 RECORDING STARTED: 2026-04-04_12-55-25_video4_Violation_PPE_Violation.mp4
+[2026-04-04 12:55:25] 📦 Writing 150 pre-incident frames to CAMV4
+[2026-04-04 12:58:19] ⏰ Finalizing recording for CAMV2 (Duration limit or stream stall)
+[2026-04-04 12:58:19] ⏹️ RECORDING FINALIZED: 2026-04-04_12-55-19_video2_Violation_PPE_Violation.mp4 (15014.3 KB, duration approx 180.2s)
+[2026-04-04 12:58:22] ⏰ Finalizing recording for CAM_VIDEO_001 (Duration limit or stream stall)
+[2026-04-04 12:58:23] ⏹️ RECORDING FINALIZED: 2026-04-04_12-55-22_Demo-Video-Camera_Violation_PPE_Violation.mp4 (22078.5 KB, duration approx 180.9s)
+[2026-04-04 12:58:26] ⏰ Finalizing recording for CAMV4 (Duration limit or stream stall)
+[2026-04-04 12:58:27] ⏹️ RECORDING FINALIZED: 2026-04-04_12-55-25_video4_Violation_PPE_Violation.mp4 (17021.6 KB, duration approx 180.7s)
+[2026-04-04 12:58:30] 🎬 Initializing recording for CAMV4 at 960x720, 30.0fps
+[2026-04-04 12:58:30] ✅ [CAMV4] VideoWriter opened with codec mp4v
+[2026-04-04 12:58:30] 🔴 RECORDING STARTED: 2026-04-04_12-58-30_video4_Violation_PPE_Violation.mp4
+[2026-04-04 12:58:30] 📦 Writing 150 pre-incident frames to CAMV4
+[2026-04-04 12:58:41] 🎬 Initializing recording for CAM_VIDEO_001 at 1920x1080, 30.0fps
+[2026-04-04 12:58:41] ✅ [CAM_VIDEO_001] VideoWriter opened with codec mp4v
+[2026-04-04 12:58:41] 🔴 RECORDING STARTED: 2026-04-04_12-58-41_Demo-Video-Camera_Violation_PPE_Violation.mp4
+[2026-04-04 12:58:41] 📦 Writing 150 pre-incident frames to CAM_VIDEO_001
+[2026-04-04 12:59:05] 🎬 Initializing recording for CAMV2 at 1280x720, 30.0fps
+[2026-04-04 12:59:05] ✅ [CAMV2] VideoWriter opened with codec mp4v
+[2026-04-04 12:59:05] 🔴 RECORDING STARTED: 2026-04-04_12-59-05_video2_Violation_PPE_Violation.mp4
+[2026-04-04 12:59:05] 📦 Writing 150 pre-incident frames to CAMV2
+[2026-04-04 13:01:31] ⏰ Finalizing recording for CAMV4 (Duration limit or stream stall)
+[2026-04-04 13:01:31] 🎬 Initializing recording for CAMV4 at 960x720, 30.0fps
+[2026-04-04 13:01:31] ✅ [CAMV4] VideoWriter opened with codec mp4v
+[2026-04-04 13:01:31] 🔴 RECORDING STARTED: 2026-04-04_13-01-31_video4_Violation_PPE_Violation.mp4
+[2026-04-04 13:01:31] 📦 Writing 150 pre-incident frames to CAMV4
+[2026-04-04 13:01:32] ⏹️ RECORDING FINALIZED: 2026-04-04_12-58-30_video4_Violation_PPE_Violation.mp4 (17486.0 KB, duration approx 180.7s)
+[2026-04-04 13:01:42] ⏰ Finalizing recording for CAM_VIDEO_001 (Duration limit or stream stall)
+[2026-04-04 13:01:42] ⏹️ RECORDING FINALIZED: 2026-04-04_12-58-41_Demo-Video-Camera_Violation_PPE_Violation.mp4 (23469.3 KB, duration approx 180.7s)
+[2026-04-04 13:01:42] 🎬 Initializing recording for CAM_VIDEO_001 at 1920x1080, 30.0fps
+[2026-04-04 13:01:42] ✅ [CAM_VIDEO_001] VideoWriter opened with codec mp4v
+[2026-04-04 13:01:42] 🔴 RECORDING STARTED: 2026-04-04_13-01-42_Demo-Video-Camera_Violation_PPE_Violation.mp4
+[2026-04-04 13:01:42] 📦 Writing 150 pre-incident frames to CAM_VIDEO_001
+[2026-04-04 13:02:05] ⏰ Finalizing recording for CAMV2 (Duration limit or stream stall)
+[2026-04-04 13:02:06] ⏹️ RECORDING FINALIZED: 2026-04-04_12-59-05_video2_Violation_PPE_Violation.mp4 (15283.8 KB, duration approx 180.8s)
+[2026-04-04 13:04:23] 🎬 Initializing recording for CAMV2 at 1280x720, 30.0fps
+[2026-04-04 13:04:23] ✅ [CAMV2] VideoWriter opened with codec mp4v
+[2026-04-04 13:04:23] 🔴 RECORDING STARTED: 2026-04-04_13-04-23_video2_Violation_PPE_Violation.mp4
+[2026-04-04 13:04:23] 📦 Writing 150 pre-incident frames to CAMV2
+[2026-04-04 13:04:32] ⏰ Finalizing recording for CAMV4 (Duration limit or stream stall)
+[2026-04-04 13:04:33] ⏹️ RECORDING FINALIZED: 2026-04-04_13-01-31_video4_Violation_PPE_Violation.mp4 (17507.2 KB, duration approx 180.6s)
+[2026-04-04 13:04:43] ⏰ Finalizing recording for CAM_VIDEO_001 (Duration limit or stream stall)
+[2026-04-04 13:04:43] ⏹️ RECORDING FINALIZED: 2026-04-04_13-01-42_Demo-Video-Camera_Violation_PPE_Violation.mp4 (22822.8 KB, duration approx 180.3s)
+[2026-04-04 13:04:45] 🎬 Initializing recording for CAMV4 at 960x720, 30.0fps
+[2026-04-04 13:04:45] ✅ [CAMV4] VideoWriter opened with codec mp4v
+[2026-04-04 13:04:45] 🔴 RECORDING STARTED: 2026-04-04_13-04-45_video4_Violation_PPE_Violation.mp4
+[2026-04-04 13:04:45] 📦 Writing 150 pre-incident frames to CAMV4
+[2026-04-04 13:04:48] 🎬 Initializing recording for CAM_VIDEO_001 at 1920x1080, 30.0fps
+[2026-04-04 13:04:48] ✅ [CAM_VIDEO_001] VideoWriter opened with codec mp4v
+[2026-04-04 13:04:48] 🔴 RECORDING STARTED: 2026-04-04_13-04-48_Demo-Video-Camera_Violation_PPE_Violation.mp4
+[2026-04-04 13:04:48] 📦 Writing 150 pre-incident frames to CAM_VIDEO_001
+[2026-04-04 13:05:32] ⏰ Finalizing recording for CAMV2 (Duration limit or stream stall)
+[2026-04-04 13:05:32] ⏹️ RECORDING FINALIZED: 2026-04-04_13-04-23_video2_Violation_PPE_Violation.mp4 (12403.3 KB, duration approx 68.6s)
+[2026-04-04 13:05:58] 🛠️ Recorder [1395] initialized. Output dir: D:\New folder (2)\Face_PPE_detection_system_insightface-main\incident_videos
+[2026-04-04 13:05:58] 📁 Working Directory: D:\New folder (2)\Face_PPE_detection_system_insightface-main
+[2026-04-04 13:05:58] ✅ Write access verified for D:\New folder (2)\Face_PPE_detection_system_insightface-main\incident_videos
+[2026-04-04 13:06:06] 🎬 Initializing recording for CAM_VIDEO_001 at 1920x1080, 30.0fps
+[2026-04-04 13:06:06] ✅ [CAM_VIDEO_001] VideoWriter opened with codec mp4v
+[2026-04-04 13:06:06] 🔴 RECORDING STARTED: 2026-04-04_13-06-06_Demo-Video-Camera_Violation_PPE_Violation.mp4
+[2026-04-04 13:06:06] 📦 Writing 3 pre-incident frames to CAM_VIDEO_001
+[2026-04-04 13:06:07] 🎬 Initializing recording for CAMV2 at 1280x720, 30.0fps
+[2026-04-04 13:06:07] ✅ [CAMV2] VideoWriter opened with codec mp4v
+[2026-04-04 13:06:07] 🔴 RECORDING STARTED: 2026-04-04_13-06-07_video2_Violation_PPE_Violation.mp4
+[2026-04-04 13:06:07] 📦 Writing 2 pre-incident frames to CAMV2
+[2026-04-04 13:06:26] 🎬 Initializing recording for CAMV4 at 960x720, 30.0fps
+[2026-04-04 13:06:26] ✅ [CAMV4] VideoWriter opened with codec mp4v
+[2026-04-04 13:06:26] 🔴 RECORDING STARTED: 2026-04-04_13-06-26_video4_Violation_PPE_Violation.mp4
+[2026-04-04 13:06:26] 📦 Writing 6 pre-incident frames to CAMV4
+[2026-04-04 13:07:56] 🛠️ Recorder [3186] initialized. Output dir: D:\New folder (2)\Face_PPE_detection_system_insightface-main\incident_videos
+[2026-04-04 13:07:56] 📁 Working Directory: D:\New folder (2)\Face_PPE_detection_system_insightface-main
+[2026-04-04 13:07:56] ✅ Write access verified for D:\New folder (2)\Face_PPE_detection_system_insightface-main\incident_videos
+[2026-04-04 13:08:04] 🎬 Initializing recording for CAM_VIDEO_001 at 1920x1080, 30.0fps
+[2026-04-04 13:08:04] ✅ [CAM_VIDEO_001] VideoWriter opened with codec mp4v
+[2026-04-04 13:08:04] 🔴 RECORDING STARTED: 2026-04-04_13-08-04_Demo-Video-Camera_Violation_PPE_Violation.mp4
+[2026-04-04 13:08:04] 📦 Writing 3 pre-incident frames to CAM_VIDEO_001
+[2026-04-04 13:08:04] 🎬 Initializing recording for CAMV2 at 1280x720, 30.0fps
+[2026-04-04 13:08:04] ✅ [CAMV2] VideoWriter opened with codec mp4v
+[2026-04-04 13:08:04] 🔴 RECORDING STARTED: 2026-04-04_13-08-04_video2_Violation_PPE_Violation.mp4
+[2026-04-04 13:08:04] 📦 Writing 2 pre-incident frames to CAMV2
+[2026-04-04 13:08:18] 🎬 Initializing recording for CAMV4 at 960x720, 30.0fps
+[2026-04-04 13:08:18] ✅ [CAMV4] VideoWriter opened with codec mp4v
+[2026-04-04 13:08:18] 🔴 RECORDING STARTED: 2026-04-04_13-08-18_video4_Violation_PPE_Violation.mp4
+[2026-04-04 13:08:18] 📦 Writing 7 pre-incident frames to CAMV4
+[2026-04-04 13:11:04] ⏰ Finalizing recording for CAM_VIDEO_001 (Duration limit or stream stall)
+[2026-04-04 13:11:05] ⏹️ RECORDING FINALIZED: 2026-04-04_13-08-04_Demo-Video-Camera_Violation_PPE_Violation.mp4 (6339.0 KB, duration approx 180.6s)
+[2026-04-04 13:11:05] ⏰ Finalizing recording for CAMV2 (Duration limit or stream stall)
+[2026-04-04 13:11:05] ⏹️ RECORDING FINALIZED: 2026-04-04_13-08-04_video2_Violation_PPE_Violation.mp4 (4427.1 KB, duration approx 181.1s)
+[2026-04-04 13:11:19] ⏰ Finalizing recording for CAMV4 (Duration limit or stream stall)
+[2026-04-04 13:11:19] ⏹️ RECORDING FINALIZED: 2026-04-04_13-08-18_video4_Violation_PPE_Violation.mp4 (5095.3 KB, duration approx 180.3s)
+[2026-04-04 13:11:21] 🎬 Initializing recording for CAMV4 at 960x720, 30.0fps
+[2026-04-04 13:11:21] ✅ [CAMV4] VideoWriter opened with codec mp4v
+[2026-04-04 13:11:21] 🔴 RECORDING STARTED: 2026-04-04_13-11-21_video4_Violation_PPE_Violation.mp4
+[2026-04-04 13:11:21] 📦 Writing 61 pre-incident frames to CAMV4
+[2026-04-04 13:11:31] 🎬 Initializing recording for CAM_VIDEO_001 at 1920x1080, 30.0fps
+[2026-04-04 13:11:31] ✅ [CAM_VIDEO_001] VideoWriter opened with codec mp4v
+[2026-04-04 13:11:31] 🔴 RECORDING STARTED: 2026-04-04_13-11-31_Demo-Video-Camera_Violation_PPE_Violation.mp4
+[2026-04-04 13:11:32] 📦 Writing 65 pre-incident frames to CAM_VIDEO_001
+[2026-04-04 13:12:45] 🎬 Initializing recording for CAMV2 at 1280x720, 30.0fps
+[2026-04-04 13:12:45] ✅ [CAMV2] VideoWriter opened with codec mp4v
+[2026-04-04 13:12:45] 🔴 RECORDING STARTED: 2026-04-04_13-12-45_video2_Violation_PPE_Violation.mp4
+[2026-04-04 13:12:45] 📦 Writing 84 pre-incident frames to CAMV2
+[2026-04-04 13:14:14] 🎬 Initializing recording for CAM7 at 1280x720, 30.0fps
+[2026-04-04 13:14:14] ✅ [CAM7] VideoWriter opened with codec mp4v
+[2026-04-04 13:14:14] 🔴 RECORDING STARTED: 2026-04-04_13-14-14_fire-2_Violation_Night_Intruder.mp4
+[2026-04-04 13:14:14] 📦 Writing 1 pre-incident frames to CAM7
+[2026-04-04 13:14:21] ⏰ Finalizing recording for CAMV4 (Duration limit or stream stall)
+[2026-04-04 13:14:22] ⏹️ RECORDING FINALIZED: 2026-04-04_13-11-21_video4_Violation_PPE_Violation.mp4 (9697.8 KB, duration approx 180.2s)
+[2026-04-04 13:14:32] ⏰ Finalizing recording for CAM_VIDEO_001 (Duration limit or stream stall)
+[2026-04-04 13:14:33] ⏹️ RECORDING FINALIZED: 2026-04-04_13-11-31_Demo-Video-Camera_Violation_PPE_Violation.mp4 (14664.4 KB, duration approx 180.6s)
+[2026-04-04 13:14:33] 🎬 Initializing recording for CAM_VIDEO_001 at 1920x1080, 30.0fps
+[2026-04-04 13:14:33] ✅ [CAM_VIDEO_001] VideoWriter opened with codec mp4v
+[2026-04-04 13:14:33] 🔴 RECORDING STARTED: 2026-04-04_13-14-33_Demo-Video-Camera_Violation_Night_Intruder.mp4
+[2026-04-04 13:14:33] 📦 Writing 129 pre-incident frames to CAM_VIDEO_001
+[2026-04-04 13:14:34] ⏰ Finalizing recording for CAMV2 (Duration limit or stream stall)
+[2026-04-04 13:14:34] ⏹️ RECORDING FINALIZED: 2026-04-04_13-12-45_video2_Violation_PPE_Violation.mp4 (8991.0 KB, duration approx 108.9s)
+[2026-04-04 13:17:14] ⏰ Finalizing recording for CAM7 (Duration limit or stream stall)
+[2026-04-04 13:17:15] ⏹️ RECORDING FINALIZED: 2026-04-04_13-14-14_fire-2_Violation_Night_Intruder.mp4 (7612.7 KB, duration approx 180.9s)
+[2026-04-04 13:17:20] 🎬 Initializing recording for CAM7 at 1280x720, 30.0fps
+[2026-04-04 13:17:20] ✅ [CAM7] VideoWriter opened with codec mp4v
+[2026-04-04 13:17:20] 🔴 RECORDING STARTED: 2026-04-04_13-17-20_fire-2_Violation_Fire_Smoke.mp4
+[2026-04-04 13:17:20] 📦 Writing 150 pre-incident frames to CAM7
+[2026-04-04 13:17:33] ⏰ Finalizing recording for CAM_VIDEO_001 (Duration limit or stream stall)
+[2026-04-04 13:17:34] ⏹️ RECORDING FINALIZED: 2026-04-04_13-14-33_Demo-Video-Camera_Violation_Night_Intruder.mp4 (27249.1 KB, duration approx 180.4s)
+[2026-04-04 13:17:37] 🎬 Initializing recording for CAM_VIDEO_001 at 1920x1080, 30.0fps
+[2026-04-04 13:17:37] ✅ [CAM_VIDEO_001] VideoWriter opened with codec mp4v
+[2026-04-04 13:17:37] 🔴 RECORDING STARTED: 2026-04-04_13-17-37_Demo-Video-Camera_Violation_PPE_Violation.mp4
+[2026-04-04 13:17:37] 📦 Writing 150 pre-incident frames to CAM_VIDEO_001
+[2026-04-04 13:18:21] ⏰ Finalizing recording for CAM7 (Duration limit or stream stall)
+[2026-04-04 13:18:22] ⏹️ RECORDING FINALIZED: 2026-04-04_13-17-20_fire-2_Violation_Fire_Smoke.mp4 (9034.2 KB, duration approx 60.9s)
+[2026-04-04 13:18:27] 🎬 Initializing recording for CAM7 at 1280x720, 30.0fps
+[2026-04-04 13:18:27] ✅ [CAM7] VideoWriter opened with codec mp4v
+[2026-04-04 13:18:27] 🔴 RECORDING STARTED: 2026-04-04_13-18-27_fire-2_Violation_Fire_Smoke.mp4
+[2026-04-04 13:18:27] 📦 Writing 150 pre-incident frames to CAM7
+[2026-04-04 13:20:38] ⏰ Finalizing recording for CAM_VIDEO_001 (Duration limit or stream stall)
+[2026-04-04 13:20:38] ⏹️ RECORDING FINALIZED: 2026-04-04_13-17-37_Demo-Video-Camera_Violation_PPE_Violation.mp4 (24594.0 KB, duration approx 180.2s)
+[2026-04-04 13:21:00] 🎬 Initializing recording for CAM_VIDEO_001 at 1920x1080, 30.0fps
+[2026-04-04 13:21:00] ✅ [CAM_VIDEO_001] VideoWriter opened with codec mp4v
+[2026-04-04 13:21:00] 🔴 RECORDING STARTED: 2026-04-04_13-21-00_Demo-Video-Camera_Violation_PPE_Violation.mp4
+[2026-04-04 13:21:00] 📦 Writing 150 pre-incident frames to CAM_VIDEO_001
+[2026-04-04 13:21:28] ⏰ Finalizing recording for CAM7 (Duration limit or stream stall)
+[2026-04-04 13:21:28] 🎬 Initializing recording for CAM7 at 1280x720, 30.0fps
+[2026-04-04 13:21:28] ✅ [CAM7] VideoWriter opened with codec mp4v
+[2026-04-04 13:21:28] 🔴 RECORDING STARTED: 2026-04-04_13-21-28_fire-2_Violation_Fire_Smoke.mp4
+[2026-04-04 13:21:28] 📦 Writing 150 pre-incident frames to CAM7
+[2026-04-04 13:21:28] ⏹️ RECORDING FINALIZED: 2026-04-04_13-18-27_fire-2_Violation_Fire_Smoke.mp4 (13888.5 KB, duration approx 180.3s)
+[2026-04-04 13:24:00] ⏰ Finalizing recording for CAM_VIDEO_001 (Duration limit or stream stall)
+[2026-04-04 13:24:00] 🎬 Initializing recording for CAM_VIDEO_001 at 1920x1080, 30.0fps
+[2026-04-04 13:24:00] ✅ [CAM_VIDEO_001] VideoWriter opened with codec mp4v
+[2026-04-04 13:24:00] 🔴 RECORDING STARTED: 2026-04-04_13-24-00_Demo-Video-Camera_Violation_PPE_Violation.mp4
+[2026-04-04 13:24:00] 📦 Writing 150 pre-incident frames to CAM_VIDEO_001
+[2026-04-04 13:24:01] ⏹️ RECORDING FINALIZED: 2026-04-04_13-21-00_Demo-Video-Camera_Violation_PPE_Violation.mp4 (27093.9 KB, duration approx 180.5s)
+[2026-04-04 13:24:29] ⏰ Finalizing recording for CAM7 (Duration limit or stream stall)
+[2026-04-04 13:24:29] ⏹️ RECORDING FINALIZED: 2026-04-04_13-21-28_fire-2_Violation_Fire_Smoke.mp4 (14405.9 KB, duration approx 181.0s)
+[2026-04-04 13:24:30] 🎬 Initializing recording for CAM7 at 1280x720, 30.0fps
+[2026-04-04 13:24:30] ✅ [CAM7] VideoWriter opened with codec mp4v
+[2026-04-04 13:24:30] 🔴 RECORDING STARTED: 2026-04-04_13-24-30_fire-2_Violation_Fire_Smoke.mp4
+[2026-04-04 13:24:30] 📦 Writing 150 pre-incident frames to CAM7
+[2026-04-04 13:27:01] ⏰ Finalizing recording for CAM_VIDEO_001 (Duration limit or stream stall)
+[2026-04-04 13:27:01] 🎬 Initializing recording for CAM_VIDEO_001 at 1920x1080, 30.0fps
+[2026-04-04 13:27:01] ✅ [CAM_VIDEO_001] VideoWriter opened with codec mp4v
+[2026-04-04 13:27:01] 🔴 RECORDING STARTED: 2026-04-04_13-27-01_Demo-Video-Camera_Violation_PPE_Violation.mp4
+[2026-04-04 13:27:01] 📦 Writing 150 pre-incident frames to CAM_VIDEO_001
+[2026-04-04 13:27:01] ⏹️ RECORDING FINALIZED: 2026-04-04_13-24-00_Demo-Video-Camera_Violation_PPE_Violation.mp4 (26070.5 KB, duration approx 180.5s)
+[2026-04-04 13:27:31] ⏰ Finalizing recording for CAM7 (Duration limit or stream stall)
+[2026-04-04 13:27:32] ⏹️ RECORDING FINALIZED: 2026-04-04_13-24-30_fire-2_Violation_Fire_Smoke.mp4 (14240.7 KB, duration approx 181.0s)
+[2026-04-04 13:27:39] 🎬 Initializing recording for CAM7 at 1280x720, 30.0fps
+[2026-04-04 13:27:39] ✅ [CAM7] VideoWriter opened with codec mp4v
+[2026-04-04 13:27:39] 🔴 RECORDING STARTED: 2026-04-04_13-27-39_fire-2_Violation_Fire_Smoke.mp4
+[2026-04-04 13:27:39] 📦 Writing 150 pre-incident frames to CAM7
+[2026-04-04 13:30:01] ⏰ Finalizing recording for CAM_VIDEO_001 (Duration limit or stream stall)
+[2026-04-04 13:30:02] ⏹️ RECORDING FINALIZED: 2026-04-04_13-27-01_Demo-Video-Camera_Violation_PPE_Violation.mp4 (26210.7 KB, duration approx 180.2s)
+[2026-04-04 13:30:30] 🎬 Initializing recording for CAM_VIDEO_001 at 1920x1080, 30.0fps
+[2026-04-04 13:30:30] ✅ [CAM_VIDEO_001] VideoWriter opened with codec mp4v
+[2026-04-04 13:30:30] 🔴 RECORDING STARTED: 2026-04-04_13-30-30_Demo-Video-Camera_Violation_PPE_Violation.mp4
+[2026-04-04 13:30:30] 📦 Writing 150 pre-incident frames to CAM_VIDEO_001
+[2026-04-04 13:30:40] ⏰ Finalizing recording for CAM7 (Duration limit or stream stall)
+[2026-04-04 13:30:40] ⏹️ RECORDING FINALIZED: 2026-04-04_13-27-39_fire-2_Violation_Fire_Smoke.mp4 (14373.7 KB, duration approx 180.9s)
+[2026-04-04 13:31:18] 🎬 Initializing recording for CAM7 at 1280x720, 30.0fps
+[2026-04-04 13:31:18] ✅ [CAM7] VideoWriter opened with codec mp4v
+[2026-04-04 13:31:18] 🔴 RECORDING STARTED: 2026-04-04_13-31-18_fire-2_Violation_Fire_Smoke.mp4
+[2026-04-04 13:31:18] 📦 Writing 150 pre-incident frames to CAM7
+[2026-04-04 13:33:08] ⏰ Finalizing recording for CAM7 (Duration limit or stream stall)
+[2026-04-04 13:33:08] ⏹️ RECORDING FINALIZED: 2026-04-04_13-31-18_fire-2_Violation_Fire_Smoke.mp4 (11713.7 KB, duration approx 109.4s)
+[2026-04-04 13:33:21] 🎬 Initializing recording for CAM7 at 1280x720, 30.0fps
+[2026-04-04 13:33:21] ✅ [CAM7] VideoWriter opened with codec mp4v
+[2026-04-04 13:33:21] 🔴 RECORDING STARTED: 2026-04-04_13-33-21_fire-2_Violation_Fire_Smoke.mp4
+[2026-04-04 13:33:21] 📦 Writing 150 pre-incident frames to CAM7
+[2026-04-04 13:33:30] ⏰ Finalizing recording for CAM_VIDEO_001 (Duration limit or stream stall)
+[2026-04-04 13:33:31] ⏹️ RECORDING FINALIZED: 2026-04-04_13-30-30_Demo-Video-Camera_Violation_PPE_Violation.mp4 (26959.7 KB, duration approx 180.8s)
+[2026-04-04 13:33:31] 🎬 Initializing recording for CAM_VIDEO_001 at 1920x1080, 30.0fps
+[2026-04-04 13:33:31] ✅ [CAM_VIDEO_001] VideoWriter opened with codec mp4v
+[2026-04-04 13:33:31] 🔴 RECORDING STARTED: 2026-04-04_13-33-31_Demo-Video-Camera_Violation_PPE_Violation.mp4
+[2026-04-04 13:33:31] 📦 Writing 150 pre-incident frames to CAM_VIDEO_001
+[2026-04-04 13:36:21] ⏰ Finalizing recording for CAM7 (Duration limit or stream stall)
+[2026-04-04 13:36:21] 🎬 Initializing recording for CAM7 at 1280x720, 30.0fps
+[2026-04-04 13:36:21] ✅ [CAM7] VideoWriter opened with codec mp4v
+[2026-04-04 13:36:21] 🔴 RECORDING STARTED: 2026-04-04_13-36-21_fire-2_Violation_Fire_Smoke.mp4
+[2026-04-04 13:36:21] 📦 Writing 150 pre-incident frames to CAM7
+[2026-04-04 13:36:22] ⏹️ RECORDING FINALIZED: 2026-04-04_13-33-21_fire-2_Violation_Fire_Smoke.mp4 (13928.0 KB, duration approx 180.4s)
+[2026-04-04 13:36:32] ⏰ Finalizing recording for CAM_VIDEO_001 (Duration limit or stream stall)
+[2026-04-04 13:36:32] ⏹️ RECORDING FINALIZED: 2026-04-04_13-33-31_Demo-Video-Camera_Violation_PPE_Violation.mp4 (25913.6 KB, duration approx 180.9s)
+[2026-04-04 13:36:33] 🎬 Initializing recording for CAM_VIDEO_001 at 1920x1080, 30.0fps
+[2026-04-04 13:36:33] ✅ [CAM_VIDEO_001] VideoWriter opened with codec mp4v
+[2026-04-04 13:36:33] 🔴 RECORDING STARTED: 2026-04-04_13-36-33_Demo-Video-Camera_Violation_PPE_Violation.mp4
+[2026-04-04 13:36:33] 📦 Writing 150 pre-incident frames to CAM_VIDEO_001
+[2026-04-04 13:39:22] ⏰ Finalizing recording for CAM7 (Duration limit or stream stall)
+[2026-04-04 13:39:22] ⏹️ RECORDING FINALIZED: 2026-04-04_13-36-21_fire-2_Violation_Fire_Smoke.mp4 (13405.7 KB, duration approx 180.3s)
+[2026-04-04 13:39:23] 🎬 Initializing recording for CAM7 at 1280x720, 30.0fps
+[2026-04-04 13:39:23] ✅ [CAM7] VideoWriter opened with codec mp4v
+[2026-04-04 13:39:23] 🔴 RECORDING STARTED: 2026-04-04_13-39-23_fire-2_Violation_Fire_Smoke.mp4
+[2026-04-04 13:39:23] 📦 Writing 150 pre-incident frames to CAM7
+[2026-04-04 13:39:33] ⏰ Finalizing recording for CAM_VIDEO_001 (Duration limit or stream stall)
+[2026-04-04 13:39:34] ⏹️ RECORDING FINALIZED: 2026-04-04_13-36-33_Demo-Video-Camera_Violation_PPE_Violation.mp4 (24526.6 KB, duration approx 180.6s)
+[2026-04-04 13:40:02] 🎬 Initializing recording for CAM_VIDEO_001 at 1920x1080, 30.0fps
+[2026-04-04 13:40:02] ✅ [CAM_VIDEO_001] VideoWriter opened with codec mp4v
+[2026-04-04 13:40:02] 🔴 RECORDING STARTED: 2026-04-04_13-40-02_Demo-Video-Camera_Violation_PPE_Violation.mp4
+[2026-04-04 13:40:02] 📦 Writing 150 pre-incident frames to CAM_VIDEO_001
+[2026-04-04 13:42:24] ⏰ Finalizing recording for CAM7 (Duration limit or stream stall)
+[2026-04-04 13:42:25] ⏹️ RECORDING FINALIZED: 2026-04-04_13-39-23_fire-2_Violation_Fire_Smoke.mp4 (13709.5 KB, duration approx 180.7s)
+[2026-04-04 13:42:26] 🎬 Initializing recording for CAM7 at 1280x720, 30.0fps
+[2026-04-04 13:42:26] ✅ [CAM7] VideoWriter opened with codec mp4v
+[2026-04-04 13:42:26] 🔴 RECORDING STARTED: 2026-04-04_13-42-26_fire-2_Violation_Fire_Smoke.mp4
+[2026-04-04 13:42:26] 📦 Writing 150 pre-incident frames to CAM7
+[2026-04-04 13:43:02] ⏰ Finalizing recording for CAM_VIDEO_001 (Duration limit or stream stall)
+[2026-04-04 13:43:02] ⏹️ RECORDING FINALIZED: 2026-04-04_13-40-02_Demo-Video-Camera_Violation_PPE_Violation.mp4 (25022.1 KB, duration approx 180.4s)
+[2026-04-04 13:43:03] 🎬 Initializing recording for CAM_VIDEO_001 at 1920x1080, 30.0fps
+[2026-04-04 13:43:03] ✅ [CAM_VIDEO_001] VideoWriter opened with codec mp4v
+[2026-04-04 13:43:03] 🔴 RECORDING STARTED: 2026-04-04_13-43-03_Demo-Video-Camera_Violation_PPE_Violation.mp4
+[2026-04-04 13:43:03] 📦 Writing 150 pre-incident frames to CAM_VIDEO_001
+[2026-04-04 13:45:27] ⏰ Finalizing recording for CAM7 (Duration limit or stream stall)
+[2026-04-04 13:45:27] 🎬 Initializing recording for CAM7 at 1280x720, 30.0fps
+[2026-04-04 13:45:27] ✅ [CAM7] VideoWriter opened with codec mp4v
+[2026-04-04 13:45:27] 🔴 RECORDING STARTED: 2026-04-04_13-45-27_fire-2_Violation_Fire_Smoke.mp4
+[2026-04-04 13:45:27] 📦 Writing 150 pre-incident frames to CAM7
+[2026-04-04 13:45:27] ⏹️ RECORDING FINALIZED: 2026-04-04_13-42-26_fire-2_Violation_Fire_Smoke.mp4 (14146.3 KB, duration approx 180.6s)
+[2026-04-04 13:46:03] ⏰ Finalizing recording for CAM_VIDEO_001 (Duration limit or stream stall)
+[2026-04-04 13:46:04] ⏹️ RECORDING FINALIZED: 2026-04-04_13-43-03_Demo-Video-Camera_Violation_PPE_Violation.mp4 (24131.1 KB, duration approx 180.8s)
+[2026-04-04 13:46:06] 🎬 Initializing recording for CAM_VIDEO_001 at 1920x1080, 30.0fps
+[2026-04-04 13:46:06] ✅ [CAM_VIDEO_001] VideoWriter opened with codec mp4v
+[2026-04-04 13:46:06] 🔴 RECORDING STARTED: 2026-04-04_13-46-06_Demo-Video-Camera_Violation_PPE_Violation.mp4
+[2026-04-04 13:46:06] 📦 Writing 150 pre-incident frames to CAM_VIDEO_001
+[2026-04-04 13:48:27] ⏰ Finalizing recording for CAM7 (Duration limit or stream stall)
+[2026-04-04 13:48:27] ⏹️ RECORDING FINALIZED: 2026-04-04_13-45-27_fire-2_Violation_Fire_Smoke.mp4 (14134.3 KB, duration approx 180.2s)
+[2026-04-04 13:48:33] 🎬 Initializing recording for CAM7 at 1280x720, 30.0fps
+[2026-04-04 13:48:33] ✅ [CAM7] VideoWriter opened with codec mp4v
+[2026-04-04 13:48:33] 🔴 RECORDING STARTED: 2026-04-04_13-48-33_fire-2_Violation_Fire_Smoke.mp4
+[2026-04-04 13:48:33] 📦 Writing 150 pre-incident frames to CAM7
+[2026-04-04 13:49:06] ⏰ Finalizing recording for CAM_VIDEO_001 (Duration limit or stream stall)
+[2026-04-04 13:49:06] ⏹️ RECORDING FINALIZED: 2026-04-04_13-46-06_Demo-Video-Camera_Violation_PPE_Violation.mp4 (24699.5 KB, duration approx 180.1s)
+[2026-04-04 13:49:36] 🎬 Initializing recording for CAM_VIDEO_001 at 1920x1080, 30.0fps
+[2026-04-04 13:49:36] ✅ [CAM_VIDEO_001] VideoWriter opened with codec mp4v
+[2026-04-04 13:49:36] 🔴 RECORDING STARTED: 2026-04-04_13-49-36_Demo-Video-Camera_Violation_PPE_Violation.mp4
+[2026-04-04 13:49:36] 📦 Writing 150 pre-incident frames to CAM_VIDEO_001
+[2026-04-04 13:51:33] ⏰ Finalizing recording for CAM7 (Duration limit or stream stall)
+[2026-04-04 13:51:34] ⏹️ RECORDING FINALIZED: 2026-04-04_13-48-33_fire-2_Violation_Fire_Smoke.mp4 (14172.3 KB, duration approx 180.4s)
+[2026-04-04 13:52:13] 🎬 Initializing recording for CAM7 at 1280x720, 30.0fps
+[2026-04-04 13:52:13] ✅ [CAM7] VideoWriter opened with codec mp4v
+[2026-04-04 13:52:13] 🔴 RECORDING STARTED: 2026-04-04_13-52-13_fire-2_Violation_Fire_Smoke.mp4
+[2026-04-04 13:52:13] 📦 Writing 150 pre-incident frames to CAM7
+[2026-04-04 13:52:37] ⏰ Finalizing recording for CAM_VIDEO_001 (Duration limit or stream stall)
+[2026-04-04 13:52:38] ⏹️ RECORDING FINALIZED: 2026-04-04_13-49-36_Demo-Video-Camera_Violation_PPE_Violation.mp4 (24891.8 KB, duration approx 180.9s)
+[2026-04-04 13:52:39] 🎬 Initializing recording for CAM_VIDEO_001 at 1920x1080, 30.0fps
+[2026-04-04 13:52:39] ✅ [CAM_VIDEO_001] VideoWriter opened with codec mp4v
+[2026-04-04 13:52:39] 🔴 RECORDING STARTED: 2026-04-04_13-52-39_Demo-Video-Camera_Violation_PPE_Violation.mp4
+[2026-04-04 13:52:39] 📦 Writing 150 pre-incident frames to CAM_VIDEO_001
+[2026-04-04 13:55:13] ⏰ Finalizing recording for CAM7 (Duration limit or stream stall)
+[2026-04-04 13:55:13] 🎬 Initializing recording for CAM7 at 1280x720, 30.0fps
+[2026-04-04 13:55:13] ✅ [CAM7] VideoWriter opened with codec mp4v
+[2026-04-04 13:55:13] 🔴 RECORDING STARTED: 2026-04-04_13-55-13_fire-2_Violation_Fire_Smoke.mp4
+[2026-04-04 13:55:13] 📦 Writing 150 pre-incident frames to CAM7
+[2026-04-04 13:55:13] ⏹️ RECORDING FINALIZED: 2026-04-04_13-52-13_fire-2_Violation_Fire_Smoke.mp4 (13921.5 KB, duration approx 180.2s)
+[2026-04-04 13:55:39] ⏰ Finalizing recording for CAM_VIDEO_001 (Duration limit or stream stall)
+[2026-04-04 13:55:40] ⏹️ RECORDING FINALIZED: 2026-04-04_13-52-39_Demo-Video-Camera_Violation_PPE_Violation.mp4 (24300.9 KB, duration approx 180.4s)
+[2026-04-04 13:55:45] 🎬 Initializing recording for CAM_VIDEO_001 at 1920x1080, 30.0fps
+[2026-04-04 13:55:45] ✅ [CAM_VIDEO_001] VideoWriter opened with codec mp4v
+[2026-04-04 13:55:45] 🔴 RECORDING STARTED: 2026-04-04_13-55-45_Demo-Video-Camera_Violation_PPE_Violation.mp4
+[2026-04-04 13:55:45] 📦 Writing 150 pre-incident frames to CAM_VIDEO_001
+[2026-04-05 21:22:38] 🛠️ Recorder [6596] initialized. Output dir: D:\New folder (2)\Face_PPE_detection_system_insightface-main\incident_videos
+[2026-04-05 21:22:38] 📁 Working Directory: D:\New folder (2)\Face_PPE_detection_system_insightface-main
+[2026-04-05 21:22:38] ✅ Write access verified for D:\New folder (2)\Face_PPE_detection_system_insightface-main\incident_videos
+[2026-04-05 21:22:44] 🎬 Initializing recording for CAM_VIDEO_001 at 1920x1080, 30.0fps
+[2026-04-05 21:22:44] ✅ [CAM_VIDEO_001] VideoWriter opened with codec mp4v
+[2026-04-05 21:22:44] 🔴 RECORDING STARTED: 2026-04-05_21-22-44_Demo-Video-Camera_Violation_PPE_Violation.mp4
+[2026-04-05 21:22:44] 📦 Writing 3 pre-incident frames to CAM_VIDEO_001
+[2026-04-05 21:22:47] 🎬 Initializing recording for CAM7 at 1280x720, 30.0fps
+[2026-04-05 21:22:47] ✅ [CAM7] VideoWriter opened with codec mp4v
+[2026-04-05 21:22:47] 🔴 RECORDING STARTED: 2026-04-05_21-22-47_fire-2_Violation_Fire_Smoke.mp4
+[2026-04-05 21:22:47] 📦 Writing 3 pre-incident frames to CAM7
+[2026-04-05 21:23:19] ⏰ Finalizing recording for CAM7 (Duration limit or stream stall)
+[2026-04-05 21:23:19] ⏹️ RECORDING FINALIZED: 2026-04-05_21-22-47_fire-2_Violation_Fire_Smoke.mp4 (869.5 KB, duration approx 32.1s)
+[2026-04-05 21:25:45] ⏰ Finalizing recording for CAM_VIDEO_001 (Duration limit or stream stall)
+[2026-04-05 21:25:45] ⏹️ RECORDING FINALIZED: 2026-04-05_21-22-44_Demo-Video-Camera_Violation_PPE_Violation.mp4 (22330.4 KB, duration approx 180.4s)
+[2026-04-05 21:26:11] 🎬 Initializing recording for CAM_VIDEO_001 at 1920x1080, 30.0fps
+[2026-04-05 21:26:11] ✅ [CAM_VIDEO_001] VideoWriter opened with codec mp4v
+[2026-04-05 21:26:12] 🔴 RECORDING STARTED: 2026-04-05_21-26-11_Demo-Video-Camera_Violation_PPE_Violation.mp4
+[2026-04-05 21:26:12] 📦 Writing 150 pre-incident frames to CAM_VIDEO_001
+[2026-04-05 21:26:53] 🎬 Initializing recording for CAMV4 at 960x720, 30.0fps
+[2026-04-05 21:26:53] ✅ [CAMV4] VideoWriter opened with codec mp4v
+[2026-04-05 21:26:53] 🔴 RECORDING STARTED: 2026-04-05_21-26-53_video4_Violation_PPE_Violation.mp4
+[2026-04-05 21:26:53] 📦 Writing 3 pre-incident frames to CAMV4
+[2026-04-05 21:27:03] 🎬 Initializing recording for CAMV2 at 1280x720, 30.0fps
+[2026-04-05 21:27:03] ✅ [CAMV2] VideoWriter opened with codec mp4v
+[2026-04-05 21:27:03] 🔴 RECORDING STARTED: 2026-04-05_21-27-03_video2_Violation_PPE_Violation.mp4
+[2026-04-05 21:27:03] 📦 Writing 4 pre-incident frames to CAMV2
+[2026-04-05 21:28:42] ⏰ Finalizing recording for CAMV2 (Duration limit or stream stall)
+[2026-04-05 21:28:43] ⏹️ RECORDING FINALIZED: 2026-04-05_21-27-03_video2_Violation_PPE_Violation.mp4 (2427.8 KB, duration approx 99.4s)
+[2026-04-05 21:29:12] ⏰ Finalizing recording for CAM_VIDEO_001 (Duration limit or stream stall)
+[2026-04-05 21:29:12] ⏹️ RECORDING FINALIZED: 2026-04-05_21-26-11_Demo-Video-Camera_Violation_PPE_Violation.mp4 (20672.9 KB, duration approx 180.6s)
+[2026-04-05 21:29:14] 🎬 Initializing recording for CAM_VIDEO_001 at 1920x1080, 30.0fps
+[2026-04-05 21:29:14] ✅ [CAM_VIDEO_001] VideoWriter opened with codec mp4v
+[2026-04-05 21:29:14] 🔴 RECORDING STARTED: 2026-04-05_21-29-14_Demo-Video-Camera_Violation_PPE_Violation.mp4
+[2026-04-05 21:29:14] 📦 Writing 150 pre-incident frames to CAM_VIDEO_001
+[2026-04-05 21:29:54] ⏰ Finalizing recording for CAMV4 (Duration limit or stream stall)
+[2026-04-05 21:29:54] ⏹️ RECORDING FINALIZED: 2026-04-05_21-26-53_video4_Violation_PPE_Violation.mp4 (4059.7 KB, duration approx 180.9s)
+[2026-04-05 21:29:58] 🎬 Initializing recording for CAMV4 at 960x720, 30.0fps
+[2026-04-05 21:29:58] ✅ [CAMV4] VideoWriter opened with codec mp4v
+[2026-04-05 21:29:58] 🔴 RECORDING STARTED: 2026-04-05_21-29-58_video4_Violation_PPE_Violation.mp4
+[2026-04-05 21:29:58] 📦 Writing 52 pre-incident frames to CAMV4
+[2026-04-05 21:30:38] 🎬 Initializing recording for CAMV2 at 1280x720, 30.0fps
+[2026-04-05 21:30:38] ✅ [CAMV2] VideoWriter opened with codec mp4v
+[2026-04-05 21:30:38] 🔴 RECORDING STARTED: 2026-04-05_21-30-38_video2_Violation_PPE_Violation.mp4
+[2026-04-05 21:30:38] 📦 Writing 62 pre-incident frames to CAMV2
+[2026-04-05 21:32:14] ⏰ Finalizing recording for CAM_VIDEO_001 (Duration limit or stream stall)
+[2026-04-05 21:32:14] ⏹️ RECORDING FINALIZED: 2026-04-05_21-29-14_Demo-Video-Camera_Violation_PPE_Violation.mp4 (18665.7 KB, duration approx 180.1s)
+[2026-04-05 21:32:15] 🎬 Initializing recording for CAM_VIDEO_001 at 1920x1080, 30.0fps
+[2026-04-05 21:32:15] ✅ [CAM_VIDEO_001] VideoWriter opened with codec mp4v
+[2026-04-05 21:32:15] 🔴 RECORDING STARTED: 2026-04-05_21-32-15_Demo-Video-Camera_Violation_PPE_Violation.mp4
+[2026-04-05 21:32:15] 📦 Writing 150 pre-incident frames to CAM_VIDEO_001
+[2026-04-05 21:32:59] ⏰ Finalizing recording for CAMV4 (Duration limit or stream stall)
+[2026-04-05 21:32:59] ⏹️ RECORDING FINALIZED: 2026-04-05_21-29-58_video4_Violation_PPE_Violation.mp4 (8024.8 KB, duration approx 180.4s)
+[2026-04-05 21:32:59] 🎬 Initializing recording for CAMV4 at 960x720, 30.0fps
+[2026-04-05 21:32:59] ✅ [CAMV4] VideoWriter opened with codec mp4v
+[2026-04-05 21:32:59] 🔴 RECORDING STARTED: 2026-04-05_21-32-59_video4_Violation_PPE_Violation.mp4
+[2026-04-05 21:32:59] 📦 Writing 103 pre-incident frames to CAMV4
+[2026-04-05 21:33:39] ⏰ Finalizing recording for CAMV2 (Duration limit or stream stall)
+[2026-04-05 21:33:39] ⏹️ RECORDING FINALIZED: 2026-04-05_21-30-38_video2_Violation_PPE_Violation.mp4 (8638.5 KB, duration approx 180.4s)
+[2026-04-05 21:34:46] 🎬 Initializing recording for CAMV2 at 1280x720, 30.0fps
+[2026-04-05 21:34:46] ✅ [CAMV2] VideoWriter opened with codec mp4v
+[2026-04-05 21:34:46] 🔴 RECORDING STARTED: 2026-04-05_21-34-46_video2_Violation_PPE_Violation.mp4
+[2026-04-05 21:34:46] 📦 Writing 134 pre-incident frames to CAMV2
+[2026-04-05 21:35:15] ⏰ Finalizing recording for CAM_VIDEO_001 (Duration limit or stream stall)
+[2026-04-05 21:35:16] ⏹️ RECORDING FINALIZED: 2026-04-05_21-32-15_Demo-Video-Camera_Violation_PPE_Violation.mp4 (21681.8 KB, duration approx 180.0s)
+[2026-04-05 21:35:21] 🎬 Initializing recording for CAM_VIDEO_001 at 1920x1080, 30.0fps
+[2026-04-05 21:35:21] ✅ [CAM_VIDEO_001] VideoWriter opened with codec mp4v
+[2026-04-05 21:35:21] 🔴 RECORDING STARTED: 2026-04-05_21-35-21_Demo-Video-Camera_Violation_PPE_Violation.mp4
+[2026-04-05 21:35:21] 📦 Writing 150 pre-incident frames to CAM_VIDEO_001
+[2026-04-05 21:36:00] ⏰ Finalizing recording for CAMV4 (Duration limit or stream stall)
+[2026-04-05 21:36:01] ⏹️ RECORDING FINALIZED: 2026-04-05_21-32-59_video4_Violation_PPE_Violation.mp4 (12513.0 KB, duration approx 180.7s)
+[2026-04-05 21:36:20] ⏰ Finalizing recording for CAMV2 (Duration limit or stream stall)
+[2026-04-05 21:36:20] ⏹️ RECORDING FINALIZED: 2026-04-05_21-34-46_video2_Violation_PPE_Violation.mp4 (12005.6 KB, duration approx 93.6s)
+[2026-04-05 21:36:23] 🎬 Initializing recording for CAMV4 at 960x720, 30.0fps
+[2026-04-05 21:36:23] ✅ [CAMV4] VideoWriter opened with codec mp4v
+[2026-04-05 21:36:23] 🔴 RECORDING STARTED: 2026-04-05_21-36-23_video4_Violation_PPE_Violation.mp4
+[2026-04-05 21:36:23] 📦 Writing 150 pre-incident frames to CAMV4
+[2026-04-05 21:36:27] 🎬 Initializing recording for CAMV2 at 1280x720, 30.0fps
+[2026-04-05 21:36:27] ✅ [CAMV2] VideoWriter opened with codec mp4v
+[2026-04-05 21:36:27] 🔴 RECORDING STARTED: 2026-04-05_21-36-27_video2_Violation_PPE_Violation.mp4
+[2026-04-05 21:36:27] 📦 Writing 150 pre-incident frames to CAMV2
+[2026-04-05 21:38:22] ⏰ Finalizing recording for CAM_VIDEO_001 (Duration limit or stream stall)
+[2026-04-05 21:38:22] ⏹️ RECORDING FINALIZED: 2026-04-05_21-35-21_Demo-Video-Camera_Violation_PPE_Violation.mp4 (22985.8 KB, duration approx 180.2s)
+[2026-04-05 21:38:32] 🎬 Initializing recording for CAM_VIDEO_001 at 1920x1080, 30.0fps
+[2026-04-05 21:38:32] ✅ [CAM_VIDEO_001] VideoWriter opened with codec mp4v
+[2026-04-05 21:38:32] 🔴 RECORDING STARTED: 2026-04-05_21-38-32_Demo-Video-Camera_Violation_PPE_Violation.mp4
+[2026-04-05 21:38:32] 📦 Writing 150 pre-incident frames to CAM_VIDEO_001
+[2026-04-05 21:39:21] ⏰ Finalizing recording for CAMV2 (Duration limit or stream stall)
+[2026-04-05 21:39:21] ⏹️ RECORDING FINALIZED: 2026-04-05_21-36-27_video2_Violation_PPE_Violation.mp4 (14877.4 KB, duration approx 173.7s)
+[2026-04-05 21:39:23] ⏰ Finalizing recording for CAMV4 (Duration limit or stream stall)
+[2026-04-05 21:39:24] ⏹️ RECORDING FINALIZED: 2026-04-05_21-36-23_video4_Violation_PPE_Violation.mp4 (16271.1 KB, duration approx 180.6s)

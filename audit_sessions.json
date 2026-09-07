@@ -1,0 +1,685 @@
+[
+    {
+        "start_time": "2026-04-01 17:49:44",
+        "user": "Unknown Company",
+        "activities": [],
+        "end_time": "2026-04-01 17:51:08"
+    },
+    {
+        "start_time": "2026-04-01 17:57:36",
+        "user": "Unknown Company",
+        "activities": [],
+        "end_time": "2026-04-01 17:59:54"
+    },
+    {
+        "start_time": "2026-04-04 00:19:56",
+        "user": "Unknown Company",
+        "activities": [
+            {
+                "time": "2026-04-04 00:22:05",
+                "action": "Updated camera settings: CAM_VIDEO_001"
+            },
+            {
+                "time": "2026-04-04 00:22:08",
+                "action": "Updated camera settings: CAM_VIDEO_001"
+            },
+            {
+                "time": "2026-04-04 00:22:11",
+                "action": "Updated camera settings: CAM_VIDEO_001"
+            },
+            {
+                "time": "2026-04-04 00:22:11",
+                "action": "Updated camera settings: CAM_VIDEO_001"
+            }
+        ],
+        "end_time": "2026-04-04 00:24:07"
+    },
+    {
+        "start_time": "2026-04-04 00:24:31",
+        "user": "Unknown Company",
+        "activities": [],
+        "end_time": "2026-04-04 00:39:31"
+    },
+    {
+        "start_time": "2026-04-04 01:25:10",
+        "user": "Unknown Company",
+        "activities": [
+            {
+                "time": "2026-04-04 01:26:54",
+                "action": "Updated camera settings: CAM001"
+            },
+            {
+                "time": "2026-04-04 01:26:56",
+                "action": "Updated camera settings: CAMV3"
+            },
+            {
+                "time": "2026-04-04 01:26:57",
+                "action": "Updated camera settings: CAMV8"
+            },
+            {
+                "time": "2026-04-04 01:26:58",
+                "action": "Updated camera settings: CAMV6"
+            },
+            {
+                "time": "2026-04-04 01:27:00",
+                "action": "Updated camera settings: CAM7"
+            },
+            {
+                "time": "2026-04-04 01:27:01",
+                "action": "Updated camera settings: CAM9"
+            },
+            {
+                "time": "2026-04-04 01:27:15",
+                "action": "Updated camera settings: CAM001"
+            },
+            {
+                "time": "2026-04-04 01:27:20",
+                "action": "Updated camera settings: CAMV3"
+            },
+            {
+                "time": "2026-04-04 01:27:23",
+                "action": "Updated camera settings: CAM7"
+            },
+            {
+                "time": "2026-04-04 01:27:26",
+                "action": "Updated camera settings: CAM9"
+            },
+            {
+                "time": "2026-04-04 01:27:26",
+                "action": "Updated camera settings: CAM9"
+            },
+            {
+                "time": "2026-04-04 01:27:27",
+                "action": "Updated camera settings: CAMV6"
+            },
+            {
+                "time": "2026-04-04 01:27:29",
+                "action": "Updated camera settings: CAM9"
+            },
+            {
+                "time": "2026-04-04 01:27:33",
+                "action": "Updated camera settings: CAMV8"
+            }
+        ],
+        "end_time": "2026-04-04 01:47:58"
+    },
+    {
+        "start_time": "2026-04-04 01:48:18",
+        "user": "Unknown Company",
+        "activities": [],
+        "end_time": "2026-04-04 01:48:59"
+    },
+    {
+        "start_time": "2026-04-04 02:16:50",
+        "user": "Unknown Company",
+        "activities": [],
+        "end_time": "2026-04-04 02:28:41"
+    },
+    {
+        "start_time": "2026-04-04 12:45:46",
+        "user": "Unknown Company",
+        "activities": [
+            {
+                "time": "2026-04-04 12:51:43",
+                "action": "Updated camera settings: CAM011"
+            },
+            {
+                "time": "2026-04-04 12:53:22",
+                "action": "Updated camera settings: CAM011"
+            },
+            {
+                "time": "2026-04-04 12:59:07",
+                "action": "Manually enabled Night Mode"
+            }
+        ],
+        "end_time": "2026-04-04 13:06:02 (auto-closed)"
+    },
+    {
+        "start_time": "2026-04-04 13:06:02",
+        "user": "Unknown Company",
+        "activities": [],
+        "end_time": "2026-04-04 13:08:00 (auto-closed)"
+    },
+    {
+        "start_time": "2026-04-04 13:08:00",
+        "user": "Unknown Company",
+        "activities": [
+            {
+                "time": "2026-04-04 13:12:49",
+                "action": "Updated Night Mode schedule/settings"
+            },
+            {
+                "time": "2026-04-04 13:13:28",
+                "action": "Updated Night Mode schedule/settings"
+            },
+            {
+                "time": "2026-04-04 13:13:49",
+                "action": "Updated Night Mode schedule/settings"
+            },
+            {
+                "time": "2026-04-04 13:13:55",
+                "action": "Manually disabled Night Mode"
+            },
+            {
+                "time": "2026-04-04 13:13:56",
+                "action": "Manually enabled Night Mode"
+            },
+            {
+                "time": "2026-04-04 13:13:57",
+                "action": "Updated Night Mode schedule/settings"
+            },
+            {
+                "time": "2026-04-04 13:14:07",
+                "action": "Updated camera settings: CAM7"
+            },
+            {
+                "time": "2026-04-04 13:14:14",
+                "action": "Updated camera settings: CAMV2"
+            },
+            {
+                "time": "2026-04-04 13:14:15",
+                "action": "Updated camera settings: CAMV4"
+            },
+            {
+                "time": "2026-04-04 13:15:46",
+                "action": "Manually disabled Night Mode"
+            },
+            {
+                "time": "2026-04-04 13:15:50",
+                "action": "Updated Night Mode schedule/settings"
+            }
+        ],
+        "end_time": "2026-04-05 21:22:50 (auto-closed)"
+    },
+    {
+        "start_time": "2026-04-05 21:22:50",
+        "user": "Unknown Company",
+        "activities": [
+            {
+                "time": "2026-04-05 21:23:03",
+                "action": "Updated camera settings: CAM7"
+            },
+            {
+                "time": "2026-04-05 21:26:39",
+                "action": "Updated camera settings: CAMV4"
+            },
+            {
+                "time": "2026-04-05 21:26:41",
+                "action": "Updated camera settings: CAMV2"
+            }
+        ],
+        "end_time": "2026-04-06 18:52:41 (auto-closed)"
+    },
+    {
+        "start_time": "2026-04-06 18:52:41",
+        "user": "Unknown Company",
+        "activities": [],
+        "end_time": "2026-04-06 18:53:53 (auto-closed)"
+    },
+    {
+        "start_time": "2026-04-06 18:53:53",
+        "user": "Unknown Company",
+        "activities": [],
+        "end_time": "2026-04-06 21:58:39 (auto-closed)"
+    },
+    {
+        "start_time": "2026-04-06 21:58:39",
+        "user": "Unknown Company",
+        "activities": [],
+        "end_time": "2026-04-06 21:59:17 (auto-closed)"
+    },
+    {
+        "start_time": "2026-04-06 21:59:17",
+        "user": "Unknown Company",
+        "activities": [],
+        "end_time": "2026-04-06 22:00:44 (auto-closed)"
+    },
+    {
+        "start_time": "2026-04-06 22:00:44",
+        "user": "Unknown Company",
+        "activities": [],
+        "end_time": "2026-04-06 22:06:59 (auto-closed)"
+    },
+    {
+        "start_time": "2026-04-06 22:06:59",
+        "user": "Unknown Company",
+        "activities": [],
+        "end_time": "2026-04-06 22:38:59"
+    },
+    {
+        "start_time": "2026-04-06 23:34:45",
+        "user": "Unknown Company",
+        "activities": [],
+        "end_time": "2026-04-06 23:36:12"
+    },
+    {
+        "start_time": "2026-04-07 00:26:46",
+        "user": "Unknown Company",
+        "activities": [],
+        "end_time": "2026-04-07 00:27:26"
+    },
+    {
+        "start_time": "2026-04-07 00:27:47",
+        "user": "Unknown Company",
+        "activities": [],
+        "end_time": "2026-04-07 00:53:00"
+    },
+    {
+        "start_time": "2026-04-07 00:53:25",
+        "user": "Unknown Company",
+        "activities": [],
+        "end_time": "2026-04-07 01:08:42"
+    },
+    {
+        "start_time": "2026-04-08 00:00:22",
+        "user": "Unknown Company",
+        "activities": [],
+        "end_time": "2026-04-08 00:35:30"
+    },
+    {
+        "start_time": "2026-04-08 00:35:53",
+        "user": "Unknown Company",
+        "activities": [],
+        "end_time": "2026-04-08 01:05:19"
+    },
+    {
+        "start_time": "2026-04-08 01:36:24",
+        "user": "Unknown Company",
+        "activities": [],
+        "end_time": "2026-04-08 01:42:20 (auto-closed)"
+    },
+    {
+        "start_time": "2026-04-08 01:42:20",
+        "user": "Unknown Company",
+        "activities": [],
+        "end_time": "2026-04-08 01:42:32"
+    },
+    {
+        "start_time": "2026-04-08 01:46:07",
+        "user": "Unknown Company",
+        "activities": [],
+        "end_time": "2026-04-08 01:47:13"
+    },
+    {
+        "start_time": "2026-04-08 01:48:00",
+        "user": "Unknown Company",
+        "activities": [
+            {
+                "time": "2026-04-08 01:48:00",
+                "action": "Updated camera settings: CAM011"
+            },
+            {
+                "time": "2026-04-08 01:48:30",
+                "action": "Updated camera settings: CAM011"
+            }
+        ],
+        "end_time": "2026-04-08 01:52:23"
+    },
+    {
+        "start_time": "2026-04-08 01:57:36",
+        "user": "Unknown Company",
+        "activities": [],
+        "end_time": "2026-04-08 01:57:52"
+    },
+    {
+        "start_time": "2026-04-08 01:58:18",
+        "user": "Unknown Company",
+        "activities": [],
+        "end_time": "2026-04-08 01:59:04"
+    },
+    {
+        "start_time": "2026-04-09 13:22:17",
+        "user": "Unknown Company",
+        "activities": [],
+        "end_time": "2026-04-09 14:19:11"
+    },
+    {
+        "start_time": "2026-04-09 16:38:15",
+        "user": "Unknown Company",
+        "activities": [],
+        "end_time": "2026-04-09 16:38:58"
+    },
+    {
+        "start_time": "2026-04-09 23:36:10",
+        "user": "Unknown Company",
+        "activities": [],
+        "end_time": "2026-04-10 00:35:26 (auto-closed)"
+    },
+    {
+        "start_time": "2026-04-10 00:35:26",
+        "user": "Unknown Company",
+        "activities": [
+            {
+                "time": "2026-04-10 00:47:59",
+                "action": "Updated Night Mode schedule/settings"
+            },
+            {
+                "time": "2026-04-10 00:49:05",
+                "action": "Updated Night Mode schedule/settings"
+            }
+        ],
+        "end_time": "2026-04-10 00:49:20"
+    },
+    {
+        "start_time": "2026-04-10 09:40:31",
+        "user": "Unknown Company",
+        "activities": [],
+        "end_time": "2026-04-10 09:43:59"
+    },
+    {
+        "start_time": "2026-04-10 11:23:14",
+        "user": "Unknown Company",
+        "activities": [
+            {
+                "time": "2026-04-10 11:24:09",
+                "action": "Updated camera settings: CAMV3"
+            },
+            {
+                "time": "2026-04-10 11:24:22",
+                "action": "Updated camera settings: CAM7"
+            },
+            {
+                "time": "2026-04-10 11:27:20",
+                "action": "Updated camera settings: CAM7"
+            },
+            {
+                "time": "2026-04-10 11:27:22",
+                "action": "Updated camera settings: CAM9"
+            }
+        ],
+        "end_time": "2026-04-10 11:35:18"
+    },
+    {
+        "start_time": "2026-04-10 22:08:52",
+        "user": "Unknown Company",
+        "activities": [],
+        "end_time": "2026-04-10 22:11:17"
+    },
+    {
+        "start_time": "2026-04-10 22:29:51",
+        "user": "Unknown Company",
+        "activities": [],
+        "end_time": "2026-04-10 22:30:25"
+    },
+    {
+        "start_time": "2026-04-10 22:41:23",
+        "user": "Unknown Company",
+        "activities": [],
+        "end_time": "2026-04-10 22:44:01"
+    },
+    {
+        "start_time": "2026-04-11 12:19:54",
+        "user": "Unknown Company",
+        "activities": [],
+        "end_time": "2026-04-11 12:28:15"
+    },
+    {
+        "start_time": "2026-04-28 20:35:58",
+        "user": "Unknown Company",
+        "activities": [
+            {
+                "time": "2026-04-28 20:42:32",
+                "action": "Updated camera settings: CAM_VIDEO_001"
+            },
+            {
+                "time": "2026-04-28 20:42:33",
+                "action": "Updated camera settings: CAMV2"
+            },
+            {
+                "time": "2026-04-28 20:42:34",
+                "action": "Updated camera settings: CAMV3"
+            },
+            {
+                "time": "2026-04-28 20:42:40",
+                "action": "Updated camera settings: CAMV4"
+            },
+            {
+                "time": "2026-04-28 20:42:41",
+                "action": "Updated camera settings: CAM9"
+            },
+            {
+                "time": "2026-04-28 20:42:49",
+                "action": "Updated camera settings: CAMV6"
+            },
+            {
+                "time": "2026-04-28 20:42:52",
+                "action": "Updated camera settings: CAM005"
+            },
+            {
+                "time": "2026-04-28 20:43:10",
+                "action": "Manually enabled Night Mode"
+            },
+            {
+                "time": "2026-04-28 20:43:13",
+                "action": "Updated Night Mode schedule/settings"
+            },
+            {
+                "time": "2026-04-28 20:43:21",
+                "action": "Updated Night Mode schedule/settings"
+            }
+        ],
+        "end_time": "2026-04-28 20:46:03"
+    },
+    {
+        "start_time": "2026-04-28 23:49:49",
+        "user": "Unknown Company",
+        "activities": [
+            {
+                "time": "2026-04-28 23:50:45",
+                "action": "Manually disabled Night Mode"
+            },
+            {
+                "time": "2026-04-28 23:50:49",
+                "action": "Updated Night Mode schedule/settings"
+            },
+            {
+                "time": "2026-04-28 23:50:58",
+                "action": "Updated Night Mode schedule/settings"
+            },
+            {
+                "time": "2026-04-28 23:51:57",
+                "action": "Updated Night Mode schedule/settings"
+            },
+            {
+                "time": "2026-04-28 23:52:02",
+                "action": "Updated camera settings: CAMV6"
+            },
+            {
+                "time": "2026-04-28 23:52:03",
+                "action": "Updated camera settings: CAM005"
+            },
+            {
+                "time": "2026-04-28 23:52:07",
+                "action": "Updated camera settings: CAM_VIDEO_001"
+            },
+            {
+                "time": "2026-04-28 23:52:12",
+                "action": "Updated camera settings: CAMV3"
+            },
+            {
+                "time": "2026-04-28 23:52:17",
+                "action": "Updated camera settings: CAMV4"
+            },
+            {
+                "time": "2026-04-28 23:52:21",
+                "action": "Updated camera settings: CAMV2"
+            }
+        ],
+        "end_time": "2026-04-28 23:53:08"
+    },
+    {
+        "start_time": "2026-05-01 00:05:12",
+        "user": "Unknown Company",
+        "activities": [
+            {
+                "time": "2026-05-01 00:11:26",
+                "action": "Updated PPE compliance rules"
+            },
+            {
+                "time": "2026-05-01 00:13:02",
+                "action": "Updated camera settings: CAM7"
+            },
+            {
+                "time": "2026-05-01 00:13:04",
+                "action": "Updated camera settings: CAM9"
+            },
+            {
+                "time": "2026-05-01 00:14:16",
+                "action": "Updated camera settings: CAM011"
+            }
+        ],
+        "end_time": "2026-05-01 00:14:53"
+    },
+    {
+        "start_time": "2026-05-01 00:32:59",
+        "user": "Unknown Company",
+        "activities": [
+            {
+                "time": "2026-05-01 00:33:29",
+                "action": "Updated camera settings: CAM011"
+            },
+            {
+                "time": "2026-05-01 00:37:38",
+                "action": "Updated camera settings: CAM011"
+            },
+            {
+                "time": "2026-05-01 00:38:57",
+                "action": "Updated camera settings: CAM7"
+            },
+            {
+                "time": "2026-05-01 00:38:59",
+                "action": "Updated camera settings: CAM9"
+            },
+            {
+                "time": "2026-05-01 00:39:01",
+                "action": "Updated camera settings: CAM011"
+            },
+            {
+                "time": "2026-05-01 00:44:47",
+                "action": "Updated camera settings: CAMV3"
+            }
+        ],
+        "end_time": "2026-05-01 00:45:10"
+    },
+    {
+        "start_time": "2026-05-01 11:00:28",
+        "user": "Unknown Company",
+        "activities": [
+            {
+                "time": "2026-05-01 11:03:23",
+                "action": "Manually enabled Night Mode"
+            },
+            {
+                "time": "2026-05-01 11:03:25",
+                "action": "Manually disabled Night Mode"
+            },
+            {
+                "time": "2026-05-01 11:04:21",
+                "action": "Updated camera settings: CAMV3"
+            },
+            {
+                "time": "2026-05-01 11:04:28",
+                "action": "Updated camera settings: CAM7"
+            },
+            {
+                "time": "2026-05-01 11:05:10",
+                "action": "Updated camera settings: CAM011"
+            }
+        ],
+        "end_time": "2026-05-01 11:07:51"
+    },
+    {
+        "start_time": "2026-05-01 11:53:26",
+        "user": "Unknown Company",
+        "activities": [],
+        "end_time": "2026-05-01 11:55:15"
+    },
+    {
+        "start_time": "2026-05-01 13:03:45",
+        "user": "Unknown Company",
+        "activities": [],
+        "end_time": "2026-05-01 13:04:32"
+    },
+    {
+        "start_time": "2026-05-01 21:14:35",
+        "user": "Unknown Company",
+        "activities": [
+            {
+                "time": "2026-05-01 21:20:54",
+                "action": "Updated Night Mode schedule/settings"
+            },
+            {
+                "time": "2026-05-01 21:21:21",
+                "action": "Manually enabled Night Mode"
+            },
+            {
+                "time": "2026-05-01 21:21:23",
+                "action": "Updated Night Mode schedule/settings"
+            },
+            {
+                "time": "2026-05-01 21:36:07",
+                "action": "Manually disabled Night Mode"
+            },
+            {
+                "time": "2026-05-01 21:36:11",
+                "action": "Updated Night Mode schedule/settings"
+            },
+            {
+                "time": "2026-05-01 21:36:42",
+                "action": "Updated camera settings: CAM7"
+            },
+            {
+                "time": "2026-05-01 21:36:44",
+                "action": "Updated camera settings: CAM011"
+            },
+            {
+                "time": "2026-05-01 21:36:50",
+                "action": "Updated camera settings: CAMV4"
+            },
+            {
+                "time": "2026-05-01 21:36:54",
+                "action": "Updated camera settings: CAMV3"
+            }
+        ],
+        "end_time": "2026-05-01 23:14:26"
+    },
+    {
+        "start_time": "2026-05-12 11:35:11",
+        "user": "Unknown Company",
+        "activities": [
+            {
+                "time": "2026-05-12 11:35:32",
+                "action": "Updated camera settings: CAMV3"
+            },
+            {
+                "time": "2026-05-12 11:35:33",
+                "action": "Updated camera settings: CAMV4"
+            },
+            {
+                "time": "2026-05-12 11:35:35",
+                "action": "Updated camera settings: CAMV8"
+            },
+            {
+                "time": "2026-05-12 11:35:36",
+                "action": "Updated camera settings: CAMV6"
+            },
+            {
+                "time": "2026-05-12 11:35:37",
+                "action": "Updated camera settings: CAM7"
+            },
+            {
+                "time": "2026-05-12 11:35:38",
+                "action": "Updated camera settings: CAM9"
+            },
+            {
+                "time": "2026-05-12 11:35:41",
+                "action": "Updated camera settings: CAM005"
+            },
+            {
+                "time": "2026-05-12 11:39:11",
+                "action": "Updated camera settings: CAM011"
+            }
+        ],
+        "end_time": "2026-05-12 13:01:14"
+    }
+]
